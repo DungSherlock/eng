@@ -1,0 +1,497 @@
+WEBVTT
+
+1
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">1-I'm in _____ department.</span> |  | Tôi thuộc bộ phận _____ .
+
+2
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">2-The finance</span> |  | Tài chính
+
+3
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">3-The marketing</span> |  | Marketing
+
+4
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">4-The sales</span> |  | Kinh doanh
+
+5
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">5-I'm in the finance department.</span> |  | Tôi thuộc bộ phận tài chính.
+
+6
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">6-I'm in the marketing department.</span> |  | Tôi thuộc bộ phận marketing.
+
+7
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">7-I'm in the sales department.</span> |  | Tôi thuộc bộ phận kinh doanh.
+
+8
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">8-Which department are you in?</span> |  | Bạn thuộc bộ phận nào?
+
+9
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">9-I'm in</span> | "/aɪm ɪn/" | Tôi thuộc
+
+10
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">10-department</span> | "/dɪˈpɑːrtmənt/" | bộ phận
+
+11
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">11-The finance</span> | "/ðə ˈfaɪnæns/" | Tài chính
+
+12
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">12-Which department are you in</span> | "/wɪt∫ dɪˈpɑːrtmənt ɑːr juː ɪn/" | Bạn thuộc bộ phận nào
+
+13
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">13-marketing</span> | "/ˈmɑːrkɪtɪη/" | Marketing
+
+14
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">14-sales</span> | "/seɪlz/" | Bán hàng
+
+15
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">15-human resources</span> | "/ˈhjuːmən rɪˈsɔːrsɪz/" | Nhân sự
+
+16
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">16-accounting</span> | "/əˈkaʊntɪη/" | Kế toán
+
+17
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">17-customer service</span> | "/ˈkʌstəmər ˈsɜːrvɪs/" | Dịch vụ khách hàng
+
+18
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">18-research and development</span> | "/ˈriːsɜːrt∫ ænd dɪˈveləpmənt/" | Nghiên cứu và phát triển
+
+19
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">19-logistics</span> | "/ləˈdʒɪstɪks/" | Hậu cần
+
+20
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">20-finance</span> | "/ˈfaɪnæns/" | Tài chính
+
+21
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">21-We mainly _____ .</span> |  | Chúng tôi chủ yếu _____ .
+
+22
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">22-Sell products</span> |  | Bán sản phẩm
+
+23
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">23-Create products</span> |  | Làm sản phẩm
+
+24
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">24-Manage the company's money</span> |  | Quản lý tiền của công ty
+
+25
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">25-We mainly sell products.</span> |  | Chúng tôi chủ yếu bán sản phẩm.
+
+26
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">26-We mainly sell products.</span> |  | Chúng tôi chủ yếu bán sản phẩm.
+
+27
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">27-We mainly create products.</span> |  | Chúng tôi chủ yếu làm sản phẩm.
+
+28
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">28-We mainly manage the company's money.</span> |  | Chúng tôi chủ yếu quản lý tiền của công ty.
+
+29
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">29-We mainly create products.</span> |  | Chúng tôi chủ yếu làm sản phẩm.
+
+30
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">30-We mainly manage the company's money.</span> |  | Chúng tôi chủ yếu quản lý tiền của công ty.
+
+31
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">31-We mainly sell products.</span> |  | Chúng tôi chủ yếu bán sản phẩm.
+
+32
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">32-What does your department mainly do?</span> |  | Bộ phận của bạn chủ yếu làm công việc gì?
+
+33
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">33-We mainly</span> | "/wiː ˈmeɪnliː/" | Chúng tôi chủ yếu
+
+34
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">34-Sell products</span> | "/sel ˈprɑːdʌkts/" | Bán sản phẩm
+
+35
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">35-What does your department mainly do</span> | "/wʌt dʌz jʊr dɪˈpɑːrtmənt ˈmeɪnliː duː/" | Bộ phận của bạn chủ yếu làm công việc gì
+
+36
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">36-create products</span> | "/kriːˈeɪt/ ˈprɑːdʌkts/" | Sản xuất sản phẩm
+
+37
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">37-provide services</span> | "/prəˈvaɪd ˈsɜːrvɪsɪz/" | Cung cấp dịch vụ
+
+38
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">38-develop solutions</span> | "/dɪˈveləp səˈluː∫nz/" | Phát triển các giải pháp
+
+39
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">39-create content</span> | "/kriːˈeɪt/ ˈkɑːntent/" | Sáng tạo nội dung
+
+40
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">40-manage projects</span> | "/ˈmænɪdʒ ˈprɑːdʒekts/" | Quản lý các dự án
+
+41
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">41-analyze data</span> | "/ˈænəlaɪz ˈdeɪtə/" | Phân tích dữ liệu
+
+42
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">42-implement strategies</span> | "/ˈɪmplɪment ˈstrætədʒɪz/" | Thực hiện các chiến lược
+
+43
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">43-monitor operations</span> | "/ˈmɑːnɪtər ˌɑːpəˈreɪ∫nz/" | Giám sát hoạt động
+
+44
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">44-support customers</span> | "/səˈpɔːrt ˈkʌstəmərz/" | Hỗ trợ khách hàng
+
+45
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">45-I find _____ most exciting.</span> |  | Tôi thấy _____ thú vị nhất.
+
+46
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">46-Dealing with the customers</span> |  | Làm việc với khách hàng
+
+47
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">47-Brainstorming ideas</span> |  | Triển khai ý tưởng
+
+48
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">48-Business trips</span> |  | Các chuyến đi công tác
+
+49
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">49-I find dealing with the customers most exciting.</span> |  | Tôi thấy làm việc với khách hàng là thú vị nhất.
+
+50
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">50-I find dealing with the customers most exciting.</span> |  | Tôi thấy làm việc với khách hàng là thú vị nhất.
+
+51
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">51-I find brainstorming ideas most exciting.</span> |  | Tôi thấy triển khai ý tưởng là thú vị nhất.
+
+52
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">52-I find business trips most exciting.</span> |  | Tôi thấy các chuyến đi công tác là thú vị nhất.
+
+53
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">53-I find brainstorming ideas most exciting.</span> |  | Tôi thấy triển khai ý tưởng là thú vị nhất.
+
+54
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">54-I find business trips most exciting.</span> |  | Tôi thấy các chuyến đi công tác là thú vị nhất.
+
+55
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">55-I find dealing with the customers most exciting.</span> |  | Tôi thấy làm việc với khách hàng là thú vị nhất.
+
+56
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">56-What's the most exciting part of your job?</span> |  | Phần thú vị nhất trong công việc của bạn là gì?
+
+57
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">57-I find</span> | "/aɪ faɪnd/" | Tôi thấy
+
+58
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">58-most exciting</span> | "/məʊst ɪkˈsaɪtɪη/" | thú vị nhất
+
+59
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">59-Dealing with the customers</span> | "/ˈdiːlɪη wɪθ ðə ˈkʌstəmərz/" | Làm việc với khách hàng
+
+60
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">60-What's the most exciting part of your job</span> | "/wʌts ðə məʊst ɪkˈsaɪtɪη pɑːrt əv jʊr dʒɑːb/" | Phần thú vị nhất trong công việc của bạn là gì
+
+61
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">61-brainstorming ideas</span> | "/ˈbreɪnstɔːrmɪη aɪˈdiːəz/" | Trao đổi và nghĩ ý tưởng
+
+62
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">62-business trips</span> | "/ˈbɪznəs trɪps/" | Đi công tác
+
+63
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">63-solving complex problems</span> | "/ˈsɑːlvɪη ˈkɑːmpleks ˈprɑːbləmz/" | Giải quyết các vấn đề phức tạp
+
+64
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">64-developing innovative solutions</span> | "/dɪˈveləpɪη ˈɪnəveɪtɪv səˈluː∫nz/" | Phát triển các giải pháp sáng tạo
+
+65
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">65-learning new skills</span> | "/ˈlɜːrnɪη nuː skɪlz/" | Học các kỹ năng mới
+
+66
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">66-collaborating with colleagues</span> | "/kəˈlæbəreɪtɪη wɪθ ˈkɑːliːgz/" | Hợp tác với đồng nghiệp
+
+67
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">67-seeing the results of my work</span> | "/ˈsiːɪη ðə rɪˈzʌlts əv maɪ wɜːrk/" | Nhìn thấy kết quả công việc của tôi
+
+68
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">68-being part of a team</span> | "/ˈbiːɪη pɑːrt əv ə tiːm/" | Là một phần của đội nhóm
+
+69
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">69-exploring new ideas</span> | "/ɪkˈsplɔːrɪη nuː aɪˈdiːəz/" | Khám phá những ý tưởng mới
+
+70
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">70-I don't like _____ .</span> |  | Tôi không thích _____ .
+
+71
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">71-The paperwork</span> |  | Công việc giấy tờ
+
+72
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">72-The low salary</span> |  | Mức lương thấp
+
+73
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">73-The repetitive tasks</span> |  | Những công việc lặp đi lặp lại
+
+74
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">74-I don't like the paperwork.</span> |  | Tôi không thích công việc giấy tờ.
+
+75
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">75-I don't like the paperwork.</span> |  | Tôi không thích công việc giấy tờ.
+
+76
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">76-I don't like the low salary.</span> |  | Tôi không thích mức lương thấp.
+
+77
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">77-I don't like the repetitive tasks.</span> |  | Tôi không thích những công việc lặp đi lặp lại.
+
+78
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">78-I don't like the low salary.</span> |  | Tôi không thích mức lương thấp.
+
+79
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">79-I don't like the repetitive tasks.</span> |  | Tôi không thích những công việc lặp đi lặp lại.
+
+80
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">80-I don't like the paperwork.</span> |  | Tôi không thích công việc giấy tờ.
+
+81
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">81-What's your least favorite part of the job?</span> |  | Bạn không thích điều gì ở công việc của mình nhất?
+
+82
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">82-I don't like</span> | "/aɪ dəʊnt laɪk/" | Tôi không thích
+
+83
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">83-The paperwork</span> | "/ðə ˈpeɪpərwɜːrk/" | Công việc giấy tờ
+
+84
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">84-What's your least favorite part of the job</span> | "/wʌts jʊr liːst ˈfeɪvərɪt pɑːrt əv ðə dʒɑːb/" | Bạn không thích điều gì ở công việc của mình nhất
+
+85
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">85-the low salary</span> | "/ðə ləʊ /ˈsæləriː/" | Lương thấp
+
+86
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">86-the repetitive tasks</span> | "/ðə rɪˈpetətɪv tæsks/" | Các đầu việc lặp đi lặp lại
+
+87
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">87-working long hours</span> | "/ˈwɜːrkɪη lɔːη ˈaʊərz/" | Làm việc trong nhiều giờ
+
+88
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">88-dealing with difficult customers</span> | "/ˈdiːlɪη wɪθ ˈdɪfɪkəlt ˈkʌstəmərz/" | Đối phó với những khách hàng khó tính
+
+89
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">89-doing paperwork</span> | "/ˈduːɪη ˈpeɪpərwɜːrk/" | Làm giấy tờ
+
+90
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">90-the tight deadlines</span> | "/ðə taɪt ˈdedlaɪnz/" | Thời hạn hoàn thành các đầu việc gấp
+
+91
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">91-having to work on weekends</span> | "/ˈhævɪη tuː wɜːrk ɑːn ˈwiːkendz/" | Phải làm việc vào cuối tuần
+
+92
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">92-You should _____ .</span> |  | Bạn nên _____ .
+
+93
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">93-Hang out with your family</span> |  | Đi chơi với gia đình
+
+94
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">94-Learn to enjoy your job</span> |  | Học cách yêu công việc của bạn
+
+95
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">95-Relax after work</span> |  | Thư giãn sau giờ làm việc
+
+96
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">96-You should hang out with your family.</span> |  | Bạn nên đi chơi với gia đình.
+
+97
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">97-You should hang out with your family.</span> |  | Bạn nên đi chơi với gia đình.
+
+98
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">98-You should learn to enjoy your job.</span> |  | Bạn nên học cách yêu công việc của bạn.
+
+99
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">99-You should relax after work.</span> |  | Bạn nên thư giãn sau giờ làm việc.
+
+100
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">100-You should learn to enjoy your job.</span> |  | Bạn nên học cách yêu công việc của bạn.
+
+101
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">101-You should relax after work.</span> |  | Bạn nên thư giãn sau giờ làm việc.
+
+102
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">102-You should hang out with your family.</span> |  | Bạn nên đi chơi với gia đình.
+
+103
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">103-What should we do to keep a work-life balance?</span> |  | Ta nên làm gì để giữ cân bằng giữa công việc và cuộc sống?
+
+104
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">104-You should</span> | "/juː ∫ʊd/" | Bạn nên
+
+105
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">105-Hang out with your family</span> | "/hæη aʊt wɪθ jʊr ˈfæməliː/" | Đi chơi với gia đình
+
+106
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">106-What should we do to keep a work life balance</span> | "/wʌt ∫ʊd wiː duː tuː kiːp ə wɜːrk laɪf ˈbæləns/" | Ta nên làm gì để giữ cân bằng giữa công việc và cuộc sống
+
+107
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">107-learn to enjoy your job</span> | "/lɜːrn tuː ɪnˈdʒɔɪ jʊr dʒɑːb/" | Học cách tận hưởng công việc của bạn
+
+108
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">108-relax after work</span> | "/rɪˈlæks ˈæftər wɜːrk/" | Thư giãn sau giờ làm
+
+109
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">109-do exercise regularly</span> | "/duː ˈeksərsaɪz /ˈreɡjələrliː/" | Tập thể dục thường xuyên
+
+110
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">110-get enough sleep</span> | "/get ɪˈnʌf sliːp/" | Ngủ đủ giấc
+
+111
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">111-I would like to _____ .</span> |  | Tôi muốn _____ .
+
+112
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">112-I don't want to _____ .</span> |  | Tôi không muốn _____ .
+
+113
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">113-Have coffee with you</span> |  | Đi uống cà phê với bạn
+
+114
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">114-Go see a movie</span> |  | Đi xem phim
+
+115
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">115-Go out for lunch</span> |  | Đi ăn trưa
+
+116
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">116-I would like to have coffee with you.</span> |  | Tôi muốn đi uống cà phê với bạn.
+
+117
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">117-I would like to go see a movie.</span> |  | Tôi muốn đi xem phim.
+
+118
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">118-I don't want to go out for lunch.</span> |  | Tôi không muốn đi ăn trưa.
+
+119
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">119-I don't want to have coffee with you.</span> |  | Tôi không muốn đi uống cà phê với bạn.
+
+120
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">120-Would you like to have coffee with me?</span> |  | Bạn có muốn đi uống cà phê với tôi không?
+
+121
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">121-I would like to</span> | "/aɪ wʊd laɪk tuː/" | Tôi muốn
+
+122
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">122-I don't want to</span> | "/aɪ dəʊnt wɑːnt tuː/" | Tôi không muốn
+
+123
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">123-Have coffee with you</span> | "/hæv ˈkɔːfiː wɪθ juː/" | Đi uống cà phê với bạn
+
+124
+00:00:00.000 --> 01:00:00.000
+<span style="color: yellow;">124-Would you like to have coffee with me</span> | "/wʊd juː laɪk tuː hæv ˈkɔːfiː wɪθ miː/" | Bạn có muốn đi uống cà phê với tôi không
