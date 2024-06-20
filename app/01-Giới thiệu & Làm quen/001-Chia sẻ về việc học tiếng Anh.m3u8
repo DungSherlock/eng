@@ -1,4 +1,6 @@
 #EXTM3U
+# Subtitle track
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="en",URI="https://raw.githubusercontent.com/DungSherlock/eng/main/app/01-Giới%20thiệu%20%26%20Làm%20quen/001-Chia%20sẻ%20về%20việc%20h%E1%BB%8Dc%20tiếng%20Anh.vtt"
 #EXTINF: 0,I want to _____ .
 https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_12.mp3
 #EXTINF: 0,Have a high-paying job
