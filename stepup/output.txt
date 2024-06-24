@@ -1,298 +1,882 @@
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 2,
-  "name_en": "Why do you want to learn English?",
-  "name_vi": "Tại sao bạn muốn học tiếng Anh?"
+  "lesson_id": 4,
+  "name_en": "Which company do you work at?",
+  "name_vi": "Bạn làm ở công ty nào?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 1,
-  "name_en": "How long have you been learning English?",
-  "name_vi": "Bạn đã học tiếng Anh được bao lâu rồi?"
+  "lesson_id": 6,
+  "name_en": "How long have you been working there?",
+  "name_vi": "Bạn đã làm ở đấy được bao lâu rồi?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 580,
-  "name_en": "How do you feel when you talk to foreigners?",
-  "name_vi": "Bạn cảm thấy thế nào khi nói chuyện với người nước ngoài?"
+  "lesson_id": 7,
+  "name_en": "What do you like about our company?",
+  "name_vi": "Bạn thích điểm gì ở công ty chúng tôi?"
+}
+{
+  "description": "HỌC CỤM CHUNKING",
+  "lesson_id": 10,
+  "name_en": "What is your greatest strength?",
+  "name_vi": "Điểm mạnh lớn nhất của bạn là gì?"
+}
+{
+  "description": "HỌC CỤM CHUNKING",
+  "lesson_id": 11,
+  "name_en": "What is your greatest weakness?",
+  "name_vi": "Điểm yếu lớn nhất của bạn là gì?"
+}
+{
+  "description": "HỌC CỤM CHUNKING",
+  "lesson_id": 13,
+  "name_en": "What are you looking for in a job?",
+  "name_vi": "Bạn đang tìm kiếm điều gì ở một công việc?"
 }
 {
   "description": "THỰC HÀNH VỚI TÂY",
-  "lesson_id": 3,
-  "name_en": "Tám với Christine về việc học tiếng Anh",
+  "lesson_id": 15,
+  "name_en": "Tham gia phỏng vấn",
   "name_vi": ""
 }
 {
   "description": "THỰC HÀNH VỚI ONION GPT",
-  "lesson_id": 403,
-  "name_en": "Vì sao bạn lại học tiếng Anh?",
+  "lesson_id": 404,
+  "name_en": "Nhạc phụ đại nhân tương lai phỏng vấn!",
   "name_vi": ""
 }
 {
   "description": "PHÁT TRIỂN Ý",
-  "lesson_id": 941,
-  "name_en": "Why do you want to learn English?",
+  "lesson_id": 944,
+  "name_en": "Which company do you work at?",
   "name_vi": ""
 }
 {
   "description": "PHÁT TRIỂN Ý",
-  "lesson_id": 943,
-  "name_en": "How do you feel when you talk to foreigners?",
+  "lesson_id": 945,
+  "name_en": "What do you like about our company?",
   "name_vi": ""
 }
 {
-  "lesson_id_2": null,
+  "description": "PHÁT TRIỂN Ý",
+  "lesson_id": 946,
+  "name_en": "What are you looking for in a job?",
+  "name_vi": ""
+}
+{
+  "lesson_id_4": null,
   "typeOutline_NAP_CUM": null,
-  "en": "I want to _____ .",
+  "en": "I work at _____ .",
   "ipa": null,
-  "vi": "Tôi muốn _____ .",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_12.mp3"
+  "vi": "Tôi làm ở _____ .",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_2.mp3"
 }
 {
-  "lesson_id_2": null,
+  "lesson_id_4": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Have a high-paying job",
+  "en": "An education company",
   "ipa": null,
-  "vi": "Có một công việc lương cao",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_16.mp3"
+  "vi": "Một công ty giáo dục",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_6.mp3"
 }
 {
-  "lesson_id_2": null,
+  "lesson_id_4": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Make friends around the world",
+  "en": "A technology company",
   "ipa": null,
-  "vi": "Kết bạn khắp nơi trên thế giới",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_18.mp3"
+  "vi": "Một công ty công nghệ",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_7.mp3"
 }
 {
-  "lesson_id_2": null,
+  "lesson_id_4": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "A retail company",
+  "ipa": null,
+  "vi": "Một công ty bán lẻ",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_8.mp3"
+}
+{
+  "lesson_id_4": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I work at an education company.",
+  "ipa": null,
+  "vi": "Tôi làm ở một công ty giáo dục.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_3.mp3"
+}
+{
+  "lesson_id_4": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I work at a technology company.",
+  "ipa": null,
+  "vi": "Tôi làm ở một công ty công nghệ.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_4.mp3"
+}
+{
+  "lesson_id_4": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I work at a retail company.",
+  "ipa": null,
+  "vi": "Tôi làm ở một công ty bán lẻ.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_5.mp3"
+}
+{
+  "lesson_id_4": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "Which company do you work at?",
+  "ipa": null,
+  "vi": "Bạn làm ở công ty nào?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_1.mp3"
+}
+{
+  "lesson_id_4": null,
   "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Why do you want to learn English?",
+  "en": "Which company do you work at?",
   "ipa": null,
   "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_16_en_11.mp3"
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_1.mp3"
 }
 {
-  "lesson_id_1": null,
+  "lesson_id_4": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "Which company do you work at?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_1.mp3"
+}
+{
+  "lesson_id_4": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "Do you work at an education company?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_9.mp3"
+}
+{
+  "lesson_id_4": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "Which company do you work at",
+  "ipa": "/wɪt∫ ˈkʌmpəniː duː juː wɜːrk æt/",
+  "vi": "Bạn làm ở công ty nào",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_1.mp3"
+}
+{
+  "lesson_id_6": null,
   "typeOutline_NAP_CUM": null,
-  "en": "I have been learning English for _____ .",
+  "en": "I have been working there for _____ .",
   "ipa": null,
-  "vi": "Tôi đã học tiếng Anh được _____ .",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_2.mp3"
+  "vi": "Tôi đã làm ở đấy trong _____ .",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_12.mp3"
 }
 {
-  "lesson_id_1": null,
+  "lesson_id_6": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Over ten years",
+  "en": "A year and a half",
   "ipa": null,
-  "vi": "Hơn mười năm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_6.mp3"
+  "vi": "Một năm rưỡi",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_16.mp3"
 }
 {
-  "lesson_id_1": null,
+  "lesson_id_6": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Less than a year",
+  "en": "About two years",
   "ipa": null,
-  "vi": "Ít hơn một năm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_8.mp3"
+  "vi": "Khoảng hai năm",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_17.mp3"
 }
 {
-  "lesson_id_1": null,
+  "lesson_id_6": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Less than two years",
+  "ipa": null,
+  "vi": "Ít hơn hai năm",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_18.mp3"
+}
+{
+  "lesson_id_6": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I have been learning English for over ten years.",
+  "en": "I have been working there for a year and a half.",
   "ipa": null,
-  "vi": "Tôi đã học tiếng Anh được hơn mười năm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_3.mp3"
+  "vi": "Tôi đã làm ở đấy trong một năm rưỡi.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_13.mp3"
 }
 {
-  "lesson_id_1": null,
+  "lesson_id_6": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I have been learning English for less than a year.",
+  "en": "I have been working there for a year and a half.",
   "ipa": null,
-  "vi": "Tôi đã học tiếng Anh được ít hơn một năm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_5.mp3"
+  "vi": "Tôi đã làm ở đấy trong một năm rưỡi.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_13.mp3"
 }
 {
-  "lesson_id_1": null,
+  "lesson_id_6": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I have been working there for about two years.",
+  "ipa": null,
+  "vi": "Tôi đã làm ở đấy trong khoảng hai năm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_14.mp3"
+}
+{
+  "lesson_id_6": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I have been working there for less than two years.",
+  "ipa": null,
+  "vi": "Tôi đã làm ở đấy trong ít hơn hai năm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_15.mp3"
+}
+{
+  "lesson_id_6": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I have been working there for about two years.",
+  "ipa": null,
+  "vi": "Tôi đã làm ở đấy trong khoảng hai năm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_14.mp3"
+}
+{
+  "lesson_id_6": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I have been working there for less than two years.",
+  "ipa": null,
+  "vi": "Tôi đã làm ở đấy trong ít hơn hai năm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_15.mp3"
+}
+{
+  "lesson_id_6": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I have been working there for a year and a half.",
+  "ipa": null,
+  "vi": "Tôi đã làm ở đấy trong một năm rưỡi.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_13.mp3"
+}
+{
+  "lesson_id_6": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "How long have you been working there?",
+  "ipa": null,
+  "vi": "Bạn đã làm ở đấy được bao lâu rồi?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_11.mp3"
+}
+{
+  "lesson_id_6": null,
   "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "How long have you been learning English?",
+  "en": "How long have you been working there?",
   "ipa": null,
   "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_16_en_1.mp3"
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_11.mp3"
 }
 {
-  "lesson_id_1": null,
+  "lesson_id_6": null,
   "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "How long have you been learning English?",
+  "en": "How long have you been working there?",
   "ipa": null,
   "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_16_en_1.mp3"
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_11.mp3"
 }
 {
-  "lesson_id_1": null,
+  "lesson_id_6": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "Have you been working there for a year and a half?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_19.mp3"
+}
+{
+  "lesson_id_6": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "Over ten years",
-  "ipa": "/ˈəʊvər ten jɪrz/",
-  "vi": "Hơn mười năm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_16_en_6.mp3"
+  "en": "I have been working there for",
+  "ipa": "/aɪ hæv bɪn ˈwɜːrkɪη ðer fɔːr/",
+  "vi": "Tôi đã làm ở đấy trong",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_12.mp3"
 }
 {
-  "lesson_id_1": null,
+  "lesson_id_6": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "I have been learning English for",
-  "ipa": "/aɪ hæv bɪn ˈlɜːrnɪη ˈɪηglɪ∫ fɔːr/",
-  "vi": "Tôi đã học tiếng Anh được",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_16_en_2.mp3"
+  "en": "A year and a half",
+  "ipa": "/ə jɪr ænd ə hæf/",
+  "vi": "Một năm rưỡi",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_16.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_6": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "How long have you been working there",
+  "ipa": "/haʊ lɔːη hæv juː bɪn ˈwɜːrkɪη ðer/",
+  "vi": "Bạn đã làm ở đấy được bao lâu rồi",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_11.mp3"
+}
+{
+  "lesson_id_7": null,
   "typeOutline_NAP_CUM": null,
-  "en": "I feel _____ talking to foreigners.",
+  "en": "I like _____ .",
   "ipa": null,
-  "vi": "Tôi cảm thấy _____ khi nói chuyện với người nước ngoài.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_22.mp3"
+  "vi": "Tôi thích _____ .",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_22.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Shy",
+  "en": "The work environment",
   "ipa": null,
-  "vi": "Ngại ngùng",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_26.mp3"
+  "vi": "Môi trường làm việc",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_26.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Confident",
+  "en": "The company's product",
   "ipa": null,
-  "vi": "Tự tin",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_27.mp3"
+  "vi": "Sản phẩm của công ty",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_27.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Amazing",
+  "en": "The company's culture",
   "ipa": null,
-  "vi": "Rất tuyệt",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_16_en_28.mp3"
+  "vi": "Văn hóa của công ty",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_28.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I feel shy talking to foreigners.",
+  "en": "I like the work environment.",
   "ipa": null,
-  "vi": "Tôi cảm thấy ngại ngùng khi nói chuyện với người nước ngoài.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_23.mp3"
+  "vi": "Tôi thích môi trường làm việc.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_23.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I feel shy talking to foreigners.",
+  "en": "I like the work environment.",
   "ipa": null,
-  "vi": "Tôi cảm thấy ngại ngùng khi nói chuyện với người nước ngoài.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_23.mp3"
+  "vi": "Tôi thích môi trường làm việc.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_23.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I feel confident talking to foreigners.",
+  "en": "I like the company's product.",
   "ipa": null,
-  "vi": "Tôi cảm thấy tự tin khi nói chuyện với người nước ngoài.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_24.mp3"
+  "vi": "Tôi thích sản phẩm của công ty.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_24.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I feel amazing talking to foreigners.",
+  "en": "I like the company's culture.",
   "ipa": null,
-  "vi": "Tôi cảm thấy rất tuyệt khi nói chuyện với người nước ngoài.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_25.mp3"
+  "vi": "Tôi thích văn hóa của công ty.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_25.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I feel confident talking to foreigners.",
+  "en": "I like the company's product.",
   "ipa": null,
-  "vi": "Tôi cảm thấy tự tin khi nói chuyện với người nước ngoài.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_24.mp3"
+  "vi": "Tôi thích sản phẩm của công ty.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_24.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I feel amazing talking to foreigners.",
+  "en": "I like the company's culture.",
   "ipa": null,
-  "vi": "Tôi cảm thấy rất tuyệt khi nói chuyện với người nước ngoài.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_25.mp3"
+  "vi": "Tôi thích văn hóa của công ty.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_25.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I feel shy talking to foreigners.",
+  "en": "I like the work environment.",
   "ipa": null,
-  "vi": "Tôi cảm thấy ngại ngùng khi nói chuyện với người nước ngoài.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_23.mp3"
+  "vi": "Tôi thích môi trường làm việc.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_23.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "How do you feel when you talk to foreigners?",
+  "en": "What do you like about our company?",
   "ipa": null,
-  "vi": "Bạn cảm thấy thế nào khi nói chuyện với người nước ngoài?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_16_en_21.mp3"
+  "vi": "Bạn thích điểm gì ở công ty chúng tôi?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_21.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "How do you feel when you talk to foreigners?",
+  "en": "What do you like about our company?",
   "ipa": null,
   "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_16_en_21.mp3"
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_21.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "How do you feel when you talk to foreigners?",
+  "en": "What do you like about our company?",
   "ipa": null,
   "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_16_en_21.mp3"
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_21.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Do you feel shy talking to foreigners?",
+  "en": "Do you like the work environment?",
   "ipa": null,
   "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_16_en_29.mp3"
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_29.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "I feel",
-  "ipa": "/aɪ fiːl/",
-  "vi": "Tôi cảm thấy",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_learningcard_en_23.mp3"
+  "en": "I like",
+  "ipa": "/aɪ laɪk/",
+  "vi": "Tôi thích",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_22.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "talking to foreigners",
-  "ipa": "/ˈtɔːkɪη tuː ˈfɔːrənərz/",
-  "vi": "khi nói chuyện với người nước ngoài",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_learningcard_en_24.mp3"
+  "en": "The work environment",
+  "ipa": "/ðə wɜːrk ɪnˈvaɪrənmənt/",
+  "vi": "Môi trường làm việc",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_26.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_7": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "Shy",
-  "ipa": "/∫aɪ/",
-  "vi": "Ngại ngùng",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_16_en_26.mp3"
+  "en": "What do you like about our company",
+  "ipa": "/wʌt duː juː laɪk əˈbaʊt ɑːr ˈkʌmpəniː/",
+  "vi": "Bạn thích điểm gì ở công ty chúng tôi",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_21.mp3"
 }
 {
-  "lesson_id_580": null,
+  "lesson_id_10": null,
+  "typeOutline_NAP_CUM": null,
+  "en": "My greatest strength is _____ .",
+  "ipa": null,
+  "vi": "Điểm mạnh lớn nhất của tôi là _____ .",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_32.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Communication skills",
+  "ipa": null,
+  "vi": "Kỹ năng giao tiếp",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_36.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Problem-solving skills",
+  "ipa": null,
+  "vi": "Kỹ năng giải quyết vấn đề",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_37.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Teamwork skills",
+  "ipa": null,
+  "vi": "Kỹ năng làm việc nhóm",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_38.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest strength is communication skills.",
+  "ipa": null,
+  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giao tiếp.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_33.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest strength is communication skills.",
+  "ipa": null,
+  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giao tiếp.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_33.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest strength is problem-solving skills.",
+  "ipa": null,
+  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giải quyết vấn đề.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_34.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest strength is teamwork skills.",
+  "ipa": null,
+  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng làm việc nhóm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_35.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest strength is problem-solving skills.",
+  "ipa": null,
+  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giải quyết vấn đề.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_34.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest strength is teamwork skills.",
+  "ipa": null,
+  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng làm việc nhóm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_35.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest strength is communication skills.",
+  "ipa": null,
+  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giao tiếp.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_33.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "What is your greatest strength?",
+  "ipa": null,
+  "vi": "Điểm mạnh lớn nhất của bạn là gì?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_31.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "What is your greatest strength?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_31.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "What is your greatest strength?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_31.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "Is your greatest strength communication skills?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_39.mp3"
+}
+{
+  "lesson_id_10": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "How do you feel when you talk to foreigners",
-  "ipa": "/haʊ duː juː fiːl wen juː tɔːk tuː ˈfɔːrənərz/",
-  "vi": "Bạn cảm thấy thế nào khi nói chuyện với người nước ngoài",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_16_en_21.mp3"
+  "en": "My greatest strength is",
+  "ipa": "/maɪ ˈgreɪtɪst streηkθ ɪz/",
+  "vi": "Điểm mạnh lớn nhất của tôi là",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_32.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "Communication skills",
+  "ipa": "/kəˌmjuːnɪˈkeɪ∫n skɪlz/",
+  "vi": "Kỹ năng giao tiếp",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_36.mp3"
+}
+{
+  "lesson_id_10": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "What is your greatest strength",
+  "ipa": "/wʌt ɪz jʊr ˈgreɪtɪst streηkθ/",
+  "vi": "Điểm mạnh lớn nhất của bạn là gì",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_31.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeOutline_NAP_CUM": null,
+  "en": "My greatest weakness is _____ .",
+  "ipa": null,
+  "vi": "Điểm yếu lớn nhất của tôi là _____ .",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_42.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Lack of confidence",
+  "ipa": null,
+  "vi": "Thiếu tự tin",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_46.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Lack of flexibility",
+  "ipa": null,
+  "vi": "Thiếu linh hoạt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_47.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Lack of English skills",
+  "ipa": null,
+  "vi": "Thiếu kỹ năng tiếng Anh",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_48.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest weakness is lack of confidence.",
+  "ipa": null,
+  "vi": "Điểm yếu lớn nhất của tôi là thiếu tự tin.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_43.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest weakness is lack of confidence.",
+  "ipa": null,
+  "vi": "Điểm yếu lớn nhất của tôi là thiếu tự tin.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_43.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest weakness is lack of flexibility.",
+  "ipa": null,
+  "vi": "Điểm yếu lớn nhất của tôi là thiếu linh hoạt.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_44.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest weakness is lack of English skills.",
+  "ipa": null,
+  "vi": "Điểm yếu lớn nhất của tôi là thiếu kỹ năng tiếng Anh.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_45.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest weakness is lack of flexibility.",
+  "ipa": null,
+  "vi": "Điểm yếu lớn nhất của tôi là thiếu linh hoạt.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_44.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest weakness is lack of English skills.",
+  "ipa": null,
+  "vi": "Điểm yếu lớn nhất của tôi là thiếu kỹ năng tiếng Anh.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_45.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "My greatest weakness is lack of confidence.",
+  "ipa": null,
+  "vi": "Điểm yếu lớn nhất của tôi là thiếu tự tin.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_43.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "What is your greatest weakness?",
+  "ipa": null,
+  "vi": "Điểm yếu lớn nhất của bạn là gì?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_41.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "What is your greatest weakness?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_41.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "What is your greatest weakness?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_41.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "Is your greatest weakness lack of confidence?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_49.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "My greatest weakness is",
+  "ipa": "/maɪ ˈgreɪtɪst ˈwiːknəs ɪz/",
+  "vi": "Điểm yếu lớn nhất của tôi là",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_42.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "Lack of confidence",
+  "ipa": "/læk əv ˈkɑːnfɪdəns/",
+  "vi": "Thiếu tự tin",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_46.mp3"
+}
+{
+  "lesson_id_11": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "What is your greatest weakness",
+  "ipa": "/wʌt ɪz jʊr ˈgreɪtɪst ˈwiːknəs/",
+  "vi": "Điểm yếu lớn nhất của bạn là gì",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_41.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeOutline_NAP_CUM": null,
+  "en": "I'm looking for _____ .",
+  "ipa": null,
+  "vi": "Tôi đang tìm kiếm _____ .",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_52.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Opportunities to learn new things",
+  "ipa": null,
+  "vi": "Cơ hội để học nhiều thứ mới",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_56.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Good benefit packages",
+  "ipa": null,
+  "vi": "Nhiều gói lợi ích",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0001_Good-benefit-packages_48k_stereo.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "Opportunities to develop myself",
+  "ipa": null,
+  "vi": "Cơ hội để phát triển bản thân",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_58.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I'm looking for opportunities to learn new things.",
+  "ipa": null,
+  "vi": "Tôi đang tìm kiếm cơ hội để học nhiều thứ mới.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_53.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I'm looking for opportunities to learn new things.",
+  "ipa": null,
+  "vi": "Tôi đang tìm kiếm cơ hội để học nhiều thứ mới.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_53.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I'm looking for good benefit packages.",
+  "ipa": null,
+  "vi": "Tôi đang tìm kiếm nhiều gói lợi ích.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_54.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I'm looking for opportunities to develop myself.",
+  "ipa": null,
+  "vi": "Tôi đang tìm kiếm cơ hội để phát triển bản thân.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_55.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I'm looking for good benefit packages.",
+  "ipa": null,
+  "vi": "Tôi đang tìm kiếm nhiều gói lợi ích.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_54.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I'm looking for opportunities to develop myself.",
+  "ipa": null,
+  "vi": "Tôi đang tìm kiếm cơ hội để phát triển bản thân.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_55.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I'm looking for opportunities to learn new things.",
+  "ipa": null,
+  "vi": "Tôi đang tìm kiếm cơ hội để học nhiều thứ mới.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_53.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "What are you looking for in a job?",
+  "ipa": null,
+  "vi": "Bạn đang tìm kiếm điều gì ở một công việc?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_51.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "What are you looking for in a job?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_51.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "What are you looking for in a job?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_51.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_LEARNING_PHRASE_QNA": null,
+  "en": "Are you looking for opportunities to learn new things?",
+  "ipa": null,
+  "vi": null,
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_59.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "I'm looking for",
+  "ipa": "/aɪm 'lʊkɪη fɔːr/",
+  "vi": "Tôi đang tìm kiếm",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_52.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "Opportunities to learn new things",
+  "ipa": "/ˌɑːpərˈtuːnətɪz tuː lɜːrn nuː θɪηz/",
+  "vi": "Cơ hội để học nhiều thứ mới",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_56.mp3"
+}
+{
+  "lesson_id_13": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "What are you looking for in a job",
+  "ipa": "/wʌt ɑːr juː 'lʊkɪη fɔːr ɪn ə dʒɑːb/",
+  "vi": "Bạn đang tìm kiếm điều gì ở một công việc",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_51.mp3"
 }
