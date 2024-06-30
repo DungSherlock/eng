@@ -1,882 +1,780 @@
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 4,
-  "name_en": "Which company do you work at?",
-  "name_vi": "Bạn làm ở công ty nào?"
+  "lesson_id": 1343,
+  "name_en": "Where are we hosting the party?",
+  "name_vi": "Chúng ta sẽ tổ chức buổi tiệc ở đâu?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 6,
-  "name_en": "How long have you been working there?",
-  "name_vi": "Bạn đã làm ở đấy được bao lâu rồi?"
+  "lesson_id": 1344,
+  "name_en": "When is the best time to schedule this party?",
+  "name_vi": "Buổi tiệc sẽ diễn ra vào lúc nào?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 7,
-  "name_en": "What do you like about our company?",
-  "name_vi": "Bạn thích điểm gì ở công ty chúng tôi?"
+  "lesson_id": 1345,
+  "name_en": "Which gifts would they like?",
+  "name_vi": "Không biết các chị em chuộng quà gì nhỉ?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 10,
-  "name_en": "What is your greatest strength?",
-  "name_vi": "Điểm mạnh lớn nhất của bạn là gì?"
+  "lesson_id": 1346,
+  "name_en": "What activities should we do for the party?",
+  "name_vi": "Mình nên tổ chức hoạt động gì cho buổi tiệc?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 11,
-  "name_en": "What is your greatest weakness?",
-  "name_vi": "Điểm yếu lớn nhất của bạn là gì?"
+  "lesson_id": 1347,
+  "name_en": "What will be on the menu?",
+  "name_vi": "Nên có món gì trong thực đơn?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 13,
-  "name_en": "What are you looking for in a job?",
-  "name_vi": "Bạn đang tìm kiếm điều gì ở một công việc?"
-}
-{
-  "description": "THỰC HÀNH VỚI TÂY",
-  "lesson_id": 15,
-  "name_en": "Tham gia phỏng vấn",
-  "name_vi": ""
+  "lesson_id": 1348,
+  "name_en": "How can you assist with the party?",
+  "name_vi": "Bạn có thể hỗ trợ được gì trong buổi tiệc?"
 }
 {
   "description": "THỰC HÀNH VỚI ONION GPT",
-  "lesson_id": 404,
-  "name_en": "Nhạc phụ đại nhân tương lai phỏng vấn!",
+  "lesson_id": 1351,
+  "name_en": "Tổ chức 8/3 cùng anh em công ty",
   "name_vi": ""
 }
 {
   "description": "PHÁT TRIỂN Ý",
-  "lesson_id": 944,
-  "name_en": "Which company do you work at?",
+  "lesson_id": 1361,
+  "name_en": "Which gifts would they like?",
   "name_vi": ""
 }
 {
   "description": "PHÁT TRIỂN Ý",
-  "lesson_id": 945,
-  "name_en": "What do you like about our company?",
+  "lesson_id": 1362,
+  "name_en": "What activities should we do for the party?",
   "name_vi": ""
 }
 {
   "description": "PHÁT TRIỂN Ý",
-  "lesson_id": 946,
-  "name_en": "What are you looking for in a job?",
+  "lesson_id": 1363,
+  "name_en": "How can you assist with the party?",
   "name_vi": ""
 }
 {
-  "lesson_id_4": null,
+  "lesson_id_1343": null,
   "typeOutline_NAP_CUM": null,
-  "en": "I work at _____ .",
+  "en": "The party will take place at ____",
   "ipa": null,
-  "vi": "Tôi làm ở _____ .",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_2.mp3"
+  "vi": "Buổi tiệc sẽ diễn ra ở",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0061_The-party-will-take-place-at_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
+  "lesson_id_1343": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "An education company",
+  "en": "the conference room",
   "ipa": null,
-  "vi": "Một công ty giáo dục",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_6.mp3"
+  "vi": "phòng họp",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0062_the-conference-room_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
+  "lesson_id_1343": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "A technology company",
+  "en": "a restaurant",
   "ipa": null,
-  "vi": "Một công ty công nghệ",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_7.mp3"
+  "vi": "nhà hàng",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0063_a-restaurant_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
+  "lesson_id_1343": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "A retail company",
+  "en": "an event center",
   "ipa": null,
-  "vi": "Một công ty bán lẻ",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_8.mp3"
+  "vi": "trung tâm tổ chức sự kiện",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0064_an-event-center_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
+  "lesson_id_1343": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I work at an education company.",
+  "en": "The party will take place at the conference room.",
   "ipa": null,
-  "vi": "Tôi làm ở một công ty giáo dục.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_3.mp3"
+  "vi": "Buổi tiệc sẽ diễn ra ở phòng họp.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0121_The-party-will-take-place-at-t_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
+  "lesson_id_1343": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I work at a technology company.",
+  "en": "The party will take place at the conference room.",
   "ipa": null,
-  "vi": "Tôi làm ở một công ty công nghệ.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_4.mp3"
+  "vi": "Buổi tiệc sẽ diễn ra ở phòng họp.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0122_The-party-will-take-place-at-t_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
+  "lesson_id_1343": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I work at a retail company.",
+  "en": "The party will take place at a restaurant.",
   "ipa": null,
-  "vi": "Tôi làm ở một công ty bán lẻ.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_5.mp3"
+  "vi": "Buổi tiệc sẽ diễn ra ở nhà hàng.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0123_The-party-will-take-place-at-a_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
+  "lesson_id_1343": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "Which company do you work at?",
+  "en": "The party will take place at an event center.",
   "ipa": null,
-  "vi": "Bạn làm ở công ty nào?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_1.mp3"
+  "vi": "Buổi tiệc sẽ diễn ra ở trung tâm tổ chức sự kiện.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0124_The-party-will-take-place-at-a_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Which company do you work at?",
+  "lesson_id_1343": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "The party will take place at the conference room.",
   "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_1.mp3"
+  "vi": "Buổi tiệc sẽ diễn ra ở phòng họp.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0125_The-party-will-take-place-at-t_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Which company do you work at?",
+  "lesson_id_1343": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "The party will take place at a restaurant.",
   "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_1.mp3"
+  "vi": "Buổi tiệc sẽ diễn ra ở nhà hàng.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0126_The-party-will-take-place-at-a_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Do you work at an education company?",
+  "lesson_id_1343": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "The party will take place at an event center.",
   "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_9.mp3"
+  "vi": "Buổi tiệc sẽ diễn ra ở trung tâm tổ chức sự kiện.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0127_The-party-will-take-place-at-a_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_4": null,
+  "lesson_id_1343": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "Where are we hosting the party?",
+  "ipa": null,
+  "vi": "Chúng ta sẽ tổ chức buổi tiệc ở đâu?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0128_Where-are-we-hosting-the-party_48.0k_stereo.mp3"
+}
+{
+  "lesson_id_1343": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "Which company do you work at",
-  "ipa": "/wɪt∫ ˈkʌmpəniː duː juː wɜːrk æt/",
-  "vi": "Bạn làm ở công ty nào",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_1.mp3"
+  "en": "The party will take place at",
+  "ipa": "/ðə ˈpɑːrti: wɪl teɪk pleɪs æt/",
+  "vi": "Buổi tiệc sẽ diễn ra ở",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0049_The-party-will-take-place-at_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1343": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "the conference room",
+  "ipa": "/ðə ˈkɑːnfərəns ru:m/",
+  "vi": "phòng họp",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0050_the-conference-room_48.0k_stereo.mp3"
+}
+{
+  "lesson_id_1343": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "Where are we hosting the party",
+  "ipa": "/wer ɑːr wiː həʊstɪŋ ðə ˈpɑːrti:/",
+  "vi": "Chúng ta sẽ tổ chức buổi tiệc ở đâu?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0051_Where-are-we-hosting-the-party_48.0k_stereo.mp3"
+}
+{
+  "lesson_id_1344": null,
   "typeOutline_NAP_CUM": null,
-  "en": "I have been working there for _____ .",
+  "en": "The party will be ___",
   "ipa": null,
-  "vi": "Tôi đã làm ở đấy trong _____ .",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_12.mp3"
+  "vi": "Buổi tiệc(sẽ diễn ra) ",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0065_The-party-will-be_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "A year and a half",
+  "en": "after work",
   "ipa": null,
-  "vi": "Một năm rưỡi",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_16.mp3"
+  "vi": "sau giờ làm",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0066_after-work_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "About two years",
+  "en": "during lunch",
   "ipa": null,
-  "vi": "Khoảng hai năm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_17.mp3"
+  "vi": "trong giờ ăn trưa",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0067_during-lunch_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Less than two years",
+  "en": "on the weekend",
   "ipa": null,
-  "vi": "Ít hơn hai năm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_18.mp3"
+  "vi": "vào cuối tuần",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0068_on-the-weekend_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I have been working there for a year and a half.",
+  "en": "The party will be after work.",
   "ipa": null,
-  "vi": "Tôi đã làm ở đấy trong một năm rưỡi.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_13.mp3"
+  "vi": "Buổi tiệc(sẽ diễn ra) sau giờ làm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0129_The-party-will-be-after-work_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I have been working there for a year and a half.",
+  "en": "The party will be after work.",
   "ipa": null,
-  "vi": "Tôi đã làm ở đấy trong một năm rưỡi.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_13.mp3"
+  "vi": "Buổi tiệc(sẽ diễn ra) sau giờ làm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0130_The-party-will-be-after-work_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I have been working there for about two years.",
+  "en": "The party will be during lunch.",
   "ipa": null,
-  "vi": "Tôi đã làm ở đấy trong khoảng hai năm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_14.mp3"
+  "vi": "Buổi tiệc(sẽ diễn ra) trong giờ ăn trưa.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0131_The-party-will-be-during-lunch_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I have been working there for less than two years.",
+  "en": "The party will be on the weekend.",
   "ipa": null,
-  "vi": "Tôi đã làm ở đấy trong ít hơn hai năm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_15.mp3"
+  "vi": "Buổi tiệc(sẽ diễn ra) vào cuối tuần.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0132_The-party-will-be-on-the-weeke_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I have been working there for about two years.",
+  "en": "The party will be after work.",
   "ipa": null,
-  "vi": "Tôi đã làm ở đấy trong khoảng hai năm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_14.mp3"
+  "vi": "Buổi tiệc(sẽ diễn ra) sau giờ làm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0133_The-party-will-be-after-work_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I have been working there for less than two years.",
+  "en": "The party will be during lunch.",
   "ipa": null,
-  "vi": "Tôi đã làm ở đấy trong ít hơn hai năm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_15.mp3"
+  "vi": "Buổi tiệc(sẽ diễn ra) trong giờ ăn trưa.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0134_The-party-will-be-during-lunch_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I have been working there for a year and a half.",
+  "en": "The party will be on the weekend.",
   "ipa": null,
-  "vi": "Tôi đã làm ở đấy trong một năm rưỡi.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_13.mp3"
+  "vi": "Buổi tiệc(sẽ diễn ra) vào cuối tuần.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0135_The-party-will-be-on-the-weeke_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "How long have you been working there?",
+  "en": "When is the best time to schedule this party?",
   "ipa": null,
-  "vi": "Bạn đã làm ở đấy được bao lâu rồi?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_11.mp3"
+  "vi": "Buổi tiệc sẽ diễn ra vào lúc nào?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0136_When-is-the-best-time-to-sched_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "How long have you been working there?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_11.mp3"
-}
-{
-  "lesson_id_6": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "How long have you been working there?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_11.mp3"
-}
-{
-  "lesson_id_6": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Have you been working there for a year and a half?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_19.mp3"
-}
-{
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "I have been working there for",
-  "ipa": "/aɪ hæv bɪn ˈwɜːrkɪη ðer fɔːr/",
-  "vi": "Tôi đã làm ở đấy trong",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_12.mp3"
+  "en": "The party will be",
+  "ipa": "/ðə ˈpɑːrti: wɪl biː/",
+  "vi": "Buổi tiệc(sẽ diễn ra)",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0052_The-party-will-be_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "A year and a half",
-  "ipa": "/ə jɪr ænd ə hæf/",
-  "vi": "Một năm rưỡi",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_16.mp3"
+  "en": "after work",
+  "ipa": "/ˈæftər wɜːrk/",
+  "vi": "sau giờ làm",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0053_after-work_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_6": null,
+  "lesson_id_1344": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "How long have you been working there",
-  "ipa": "/haʊ lɔːη hæv juː bɪn ˈwɜːrkɪη ðer/",
-  "vi": "Bạn đã làm ở đấy được bao lâu rồi",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_11.mp3"
+  "en": "When is the best time to schedule this party",
+  "ipa": "/wen ɪz ðə best taɪm tuː ˈskedʒuːl ðɪs ˈpɑːrti:/",
+  "vi": "Buổi tiệc sẽ diễn ra vào lúc nào?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0054_When-is-the-best-time-to-sched_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeOutline_NAP_CUM": null,
-  "en": "I like _____ .",
+  "en": "We plan to give them ___",
   "ipa": null,
-  "vi": "Tôi thích _____ .",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_22.mp3"
+  "vi": "Chúng ta dự định sẽ tặng cho họ ",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0069_We-plan-to-give-them_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "The work environment",
+  "en": "fresh flowers",
   "ipa": null,
-  "vi": "Môi trường làm việc",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_26.mp3"
+  "vi": "hoa tươi",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0070_fresh-flowers_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "The company's product",
+  "en": "notebooks",
   "ipa": null,
-  "vi": "Sản phẩm của công ty",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_27.mp3"
+  "vi": "những cuốn sổ tay",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0071_notebooks_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "The company's culture",
+  "en": "beauty products",
   "ipa": null,
-  "vi": "Văn hóa của công ty",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_28.mp3"
+  "vi": "mỹ phẩm",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0072_beauty-products_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I like the work environment.",
+  "en": "We plan to give them fresh flowers.",
   "ipa": null,
-  "vi": "Tôi thích môi trường làm việc.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_23.mp3"
+  "vi": "Chúng ta dự định sẽ tặng cho họ hoa tươi.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0137_We-plan-to-give-them-fresh-flo_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I like the work environment.",
+  "en": "We plan to give them fresh flowers.",
   "ipa": null,
-  "vi": "Tôi thích môi trường làm việc.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_23.mp3"
+  "vi": "Chúng ta dự định sẽ tặng cho họ hoa tươi.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0138_We-plan-to-give-them-fresh-flo_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I like the company's product.",
+  "en": "We plan to give them notebooks.",
   "ipa": null,
-  "vi": "Tôi thích sản phẩm của công ty.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_24.mp3"
+  "vi": "Chúng ta dự định sẽ tặng cho họ những cuốn sổ tay.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0139_We-plan-to-give-them-notebooks_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I like the company's culture.",
+  "en": "We plan to give them beauty products.",
   "ipa": null,
-  "vi": "Tôi thích văn hóa của công ty.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_25.mp3"
+  "vi": "Chúng ta dự định sẽ tặng cho họ mỹ phẩm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0140_We-plan-to-give-them-beauty-pr_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I like the company's product.",
+  "en": "We plan to give them fresh flowers.",
   "ipa": null,
-  "vi": "Tôi thích sản phẩm của công ty.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_24.mp3"
+  "vi": "Chúng ta dự định sẽ tặng cho họ hoa tươi.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0141_We-plan-to-give-them-fresh-flo_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I like the company's culture.",
+  "en": "We plan to give them notebooks.",
   "ipa": null,
-  "vi": "Tôi thích văn hóa của công ty.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_25.mp3"
+  "vi": "Chúng ta dự định sẽ tặng cho họ những cuốn sổ tay.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0142_We-plan-to-give-them-notebooks_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I like the work environment.",
+  "en": "We plan to give them beauty products.",
   "ipa": null,
-  "vi": "Tôi thích môi trường làm việc.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_23.mp3"
+  "vi": "Chúng ta dự định sẽ tặng cho họ mỹ phẩm.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0143_We-plan-to-give-them-beauty-pr_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "What do you like about our company?",
+  "en": "Which gifts would they like?",
   "ipa": null,
-  "vi": "Bạn thích điểm gì ở công ty chúng tôi?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_21.mp3"
+  "vi": "Không biết các chị em chuộng quà gì nhỉ?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0144_Which-gifts-would-they-like_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "What do you like about our company?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_21.mp3"
-}
-{
-  "lesson_id_7": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "What do you like about our company?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_21.mp3"
-}
-{
-  "lesson_id_7": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Do you like the work environment?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_29.mp3"
-}
-{
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "I like",
-  "ipa": "/aɪ laɪk/",
-  "vi": "Tôi thích",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_22.mp3"
+  "en": "We plan to give them",
+  "ipa": "/wiː plæn tuː ɡɪv ðem/",
+  "vi": "Chúng ta dự định sẽ tặng cho họ",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0055_We-plan-to-give-them_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "The work environment",
-  "ipa": "/ðə wɜːrk ɪnˈvaɪrənmənt/",
-  "vi": "Môi trường làm việc",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_26.mp3"
+  "en": "fresh flowers",
+  "ipa": "/freʃ ˈflaʊərz/",
+  "vi": "hoa tươi",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0056_fresh-flowers_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_7": null,
+  "lesson_id_1345": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "What do you like about our company",
-  "ipa": "/wʌt duː juː laɪk əˈbaʊt ɑːr ˈkʌmpəniː/",
-  "vi": "Bạn thích điểm gì ở công ty chúng tôi",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_21.mp3"
+  "en": "Which gifts would they like",
+  "ipa": "/wɪtʃ ɡɪfts wʊd ðeɪ laɪk/",
+  "vi": "Không biết các chị em chuộng quà gì nhỉ?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0057_Which-gifts-would-they-like_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeOutline_NAP_CUM": null,
-  "en": "My greatest strength is _____ .",
+  "en": "We will set up ___",
   "ipa": null,
-  "vi": "Điểm mạnh lớn nhất của tôi là _____ .",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_32.mp3"
+  "vi": "Chúng ta sẽ sắp xếp ",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0073_We-will-set-up_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Communication skills",
+  "en": "a photo booth",
   "ipa": null,
-  "vi": "Kỹ năng giao tiếp",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_36.mp3"
+  "vi": "quầy chụp ảnh",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0074_a-photobooth_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Problem-solving skills",
+  "en": "a movie screening",
   "ipa": null,
-  "vi": "Kỹ năng giải quyết vấn đề",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_37.mp3"
+  "vi": "buổi chiếu phim",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0075_a-movie-screening_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Teamwork skills",
+  "en": "a dessert buffet",
   "ipa": null,
-  "vi": "Kỹ năng làm việc nhóm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_38.mp3"
+  "vi": "quầy tráng miệng tự chọn",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0076_a-dessert-buffet_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest strength is communication skills.",
+  "en": "We will set up a photo booth.",
   "ipa": null,
-  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giao tiếp.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_33.mp3"
+  "vi": "Chúng ta sẽ sắp xếp quầy chụp ảnh.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0145_We-will-set-up-a-photobooth_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest strength is communication skills.",
+  "en": "We will set up a photo booth.",
   "ipa": null,
-  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giao tiếp.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_33.mp3"
+  "vi": "Chúng ta sẽ sắp xếp quầy chụp ảnh.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0146_We-will-set-up-a-photobooth_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest strength is problem-solving skills.",
+  "en": "We will set up a movie screening.",
   "ipa": null,
-  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giải quyết vấn đề.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_34.mp3"
+  "vi": "Chúng ta sẽ sắp xếp buổi chiếu phim.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0147_We-will-set-up-a-movie-screeni_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest strength is teamwork skills.",
+  "en": "We will set up a dessert buffet.",
   "ipa": null,
-  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng làm việc nhóm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_35.mp3"
+  "vi": "Chúng ta sẽ sắp xếp quầy tráng miệng tự chọn.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0148_We-will-set-up-a-dessert-buffe_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest strength is problem-solving skills.",
+  "en": "We will set up a photo booth.",
   "ipa": null,
-  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giải quyết vấn đề.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_34.mp3"
+  "vi": "Chúng ta sẽ sắp xếp quầy chụp ảnh.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0149_We-will-set-up-a-photobooth_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest strength is teamwork skills.",
+  "en": "We will set up a movie screening.",
   "ipa": null,
-  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng làm việc nhóm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_35.mp3"
+  "vi": "Chúng ta sẽ sắp xếp buổi chiếu phim.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0150_We-will-set-up-a-movie-screeni_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest strength is communication skills.",
+  "en": "We will set up a dessert buffet.",
   "ipa": null,
-  "vi": "Điểm mạnh lớn nhất của tôi là kỹ năng giao tiếp.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_33.mp3"
+  "vi": "Chúng ta sẽ sắp xếp quầy tráng miệng tự chọn.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0151_We-will-set-up-a-dessert-buffe_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "What is your greatest strength?",
+  "en": "What activities should we do for the party?",
   "ipa": null,
-  "vi": "Điểm mạnh lớn nhất của bạn là gì?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_31.mp3"
+  "vi": "Mình nên tổ chức hoạt động gì cho buổi tiệc?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0152_What-activities-should-we-do-f_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "What is your greatest strength?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_31.mp3"
-}
-{
-  "lesson_id_10": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "What is your greatest strength?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_31.mp3"
-}
-{
-  "lesson_id_10": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Is your greatest strength communication skills?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_39.mp3"
-}
-{
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "My greatest strength is",
-  "ipa": "/maɪ ˈgreɪtɪst streηkθ ɪz/",
-  "vi": "Điểm mạnh lớn nhất của tôi là",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_32.mp3"
+  "en": "We will set up",
+  "ipa": "/wiː wɪl set ʌp/",
+  "vi": "Chúng ta sẽ sắp xếp",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0058_We-will-set-up_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "Communication skills",
-  "ipa": "/kəˌmjuːnɪˈkeɪ∫n skɪlz/",
-  "vi": "Kỹ năng giao tiếp",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_36.mp3"
+  "en": "a photo booth",
+  "ipa": "/ə ˈfəʊtəʊ buːθ/",
+  "vi": "quầy chụp ảnh",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0059_a-photobooth_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_10": null,
+  "lesson_id_1346": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "What is your greatest strength",
-  "ipa": "/wʌt ɪz jʊr ˈgreɪtɪst streηkθ/",
-  "vi": "Điểm mạnh lớn nhất của bạn là gì",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_31.mp3"
+  "en": "What activities should we do for the party",
+  "ipa": "/wʌt ækˈtɪvətiz ʃʊd wiː duː fɔːr ðə ˈpɑːrti:/",
+  "vi": "Mình nên tổ chức hoạt động gì cho buổi tiệc?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0060_What-activities-should-we-do-f_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeOutline_NAP_CUM": null,
-  "en": "My greatest weakness is _____ .",
+  "en": "We are going to eat ___",
   "ipa": null,
-  "vi": "Điểm yếu lớn nhất của tôi là _____ .",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_42.mp3"
+  "vi": "Chúng ta sẽ ăn ",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0077_We-are-going-to-eat_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Lack of confidence",
+  "en": "fresh spring rolls",
   "ipa": null,
-  "vi": "Thiếu tự tin",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_46.mp3"
+  "vi": "gỏi cuốn",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0078_fresh-spring-rolls_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Lack of flexibility",
+  "en": "sandwiches",
   "ipa": null,
-  "vi": "Thiếu linh hoạt",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_47.mp3"
+  "vi": "bánh kẹp",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0079_sandwiches_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Lack of English skills",
+  "en": "fresh fruits",
   "ipa": null,
-  "vi": "Thiếu kỹ năng tiếng Anh",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_48.mp3"
+  "vi": "hoa quả tươi",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0080_fresh-fruits_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest weakness is lack of confidence.",
+  "en": "We are going to eat fresh spring rolls.",
   "ipa": null,
-  "vi": "Điểm yếu lớn nhất của tôi là thiếu tự tin.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_43.mp3"
+  "vi": "Chúng ta sẽ ăn gỏi cuốn.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0153_We-are-going-to-eat-fresh-spri_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest weakness is lack of confidence.",
+  "en": "We are going to eat fresh spring rolls.",
   "ipa": null,
-  "vi": "Điểm yếu lớn nhất của tôi là thiếu tự tin.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_43.mp3"
+  "vi": "Chúng ta sẽ ăn gỏi cuốn.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0154_We-are-going-to-eat-fresh-spri_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest weakness is lack of flexibility.",
+  "en": "We are going to eat sandwiches.",
   "ipa": null,
-  "vi": "Điểm yếu lớn nhất của tôi là thiếu linh hoạt.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_44.mp3"
+  "vi": "Chúng ta sẽ ăn bánh kẹp.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0155_We-are-going-to-eat-sandwiches_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest weakness is lack of English skills.",
+  "en": "We are going to eat fresh fruits.",
   "ipa": null,
-  "vi": "Điểm yếu lớn nhất của tôi là thiếu kỹ năng tiếng Anh.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_45.mp3"
+  "vi": "Chúng ta sẽ ăn hoa quả tươi.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0156_We-are-going-to-eat-fresh-frui_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest weakness is lack of flexibility.",
+  "en": "We are going to eat fresh spring rolls.",
   "ipa": null,
-  "vi": "Điểm yếu lớn nhất của tôi là thiếu linh hoạt.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_44.mp3"
+  "vi": "Chúng ta sẽ ăn gỏi cuốn.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0157_We-are-going-to-eat-fresh-spri_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest weakness is lack of English skills.",
+  "en": "We are going to eat sandwiches.",
   "ipa": null,
-  "vi": "Điểm yếu lớn nhất của tôi là thiếu kỹ năng tiếng Anh.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_45.mp3"
+  "vi": "Chúng ta sẽ ăn bánh kẹp.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0158_We-are-going-to-eat-sandwiches_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "My greatest weakness is lack of confidence.",
+  "en": "We are going to eat fresh fruits.",
   "ipa": null,
-  "vi": "Điểm yếu lớn nhất của tôi là thiếu tự tin.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_43.mp3"
+  "vi": "Chúng ta sẽ ăn hoa quả tươi.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0159_We-are-going-to-eat-fresh-frui_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "What is your greatest weakness?",
+  "en": "What will be on the menu?",
   "ipa": null,
-  "vi": "Điểm yếu lớn nhất của bạn là gì?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_41.mp3"
+  "vi": "Nên có món gì trong thực đơn?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0160_What-will-be-on-the-menu_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "What is your greatest weakness?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_41.mp3"
-}
-{
-  "lesson_id_11": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "What is your greatest weakness?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_41.mp3"
-}
-{
-  "lesson_id_11": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Is your greatest weakness lack of confidence?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_49.mp3"
-}
-{
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "My greatest weakness is",
-  "ipa": "/maɪ ˈgreɪtɪst ˈwiːknəs ɪz/",
-  "vi": "Điểm yếu lớn nhất của tôi là",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_42.mp3"
+  "en": "We are going to eat",
+  "ipa": "/wiː ɑːr ˈɡəʊɪŋ tuː iːt/",
+  "vi": "Chúng ta sẽ ăn",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0061_We-are-going-to-eat_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "Lack of confidence",
-  "ipa": "/læk əv ˈkɑːnfɪdəns/",
-  "vi": "Thiếu tự tin",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_46.mp3"
+  "en": "fresh spring rolls",
+  "ipa": "/freʃ sprɪŋ rəʊlz/",
+  "vi": "gỏi cuốn",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0062_fresh-spring-rolls_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_11": null,
+  "lesson_id_1347": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "What is your greatest weakness",
-  "ipa": "/wʌt ɪz jʊr ˈgreɪtɪst ˈwiːknəs/",
-  "vi": "Điểm yếu lớn nhất của bạn là gì",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_41.mp3"
+  "en": "What will be on the menu",
+  "ipa": "/wʌt wɪl biː ɑːn ðə ˈmenjuː/",
+  "vi": "Nên có món gì trong thực đơn?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0063_What-will-be-on-the-menu_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeOutline_NAP_CUM": null,
-  "en": "I'm looking for _____ .",
+  "en": "I can be ___",
   "ipa": null,
-  "vi": "Tôi đang tìm kiếm _____ .",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_52.mp3"
+  "vi": "Tôi có thể làm ",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0081_I-can-be_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Opportunities to learn new things",
+  "en": "the organizer",
   "ipa": null,
-  "vi": "Cơ hội để học nhiều thứ mới",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_56.mp3"
+  "vi": "người tổ chức",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0082_the-organizer_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Good benefit packages",
+  "en": "the photographer",
   "ipa": null,
-  "vi": "Nhiều gói lợi ích",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0001_Good-benefit-packages_48k_stereo.mp3"
+  "vi": "nhiếp ảnh gia",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0083_the-photographer_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "Opportunities to develop myself",
+  "en": "the decorator",
   "ipa": null,
-  "vi": "Cơ hội để phát triển bản thân",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_1_en_58.mp3"
+  "vi": "người trang trí",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0084_the-decorator_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I'm looking for opportunities to learn new things.",
+  "en": "I can be the organizer.",
   "ipa": null,
-  "vi": "Tôi đang tìm kiếm cơ hội để học nhiều thứ mới.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_53.mp3"
+  "vi": "Tôi có thể làm người tổ chức.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0161_I-can-be-the-organizer_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I'm looking for opportunities to learn new things.",
+  "en": "I can be the organizer.",
   "ipa": null,
-  "vi": "Tôi đang tìm kiếm cơ hội để học nhiều thứ mới.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_53.mp3"
+  "vi": "Tôi có thể làm người tổ chức.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0162_I-can-be-the-organizer_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I'm looking for good benefit packages.",
+  "en": "I can be the photographer.",
   "ipa": null,
-  "vi": "Tôi đang tìm kiếm nhiều gói lợi ích.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_54.mp3"
+  "vi": "Tôi có thể làm nhiếp ảnh gia.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0163_I-can-be-the-photographer_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I'm looking for opportunities to develop myself.",
+  "en": "I can be the decorator.",
   "ipa": null,
-  "vi": "Tôi đang tìm kiếm cơ hội để phát triển bản thân.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_55.mp3"
+  "vi": "Tôi có thể làm người trang trí.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0164_I-can-be-the-decorator_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I'm looking for good benefit packages.",
+  "en": "I can be the organizer.",
   "ipa": null,
-  "vi": "Tôi đang tìm kiếm nhiều gói lợi ích.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_54.mp3"
+  "vi": "Tôi có thể làm người tổ chức.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0165_I-can-be-the-organizer_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I'm looking for opportunities to develop myself.",
+  "en": "I can be the photographer.",
   "ipa": null,
-  "vi": "Tôi đang tìm kiếm cơ hội để phát triển bản thân.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_55.mp3"
+  "vi": "Tôi có thể làm nhiếp ảnh gia.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0166_I-can-be-the-photographer_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I'm looking for opportunities to learn new things.",
+  "en": "I can be the decorator.",
   "ipa": null,
-  "vi": "Tôi đang tìm kiếm cơ hội để học nhiều thứ mới.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_53.mp3"
+  "vi": "Tôi có thể làm người trang trí.",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0167_I-can-be-the-decorator_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "What are you looking for in a job?",
+  "en": "How can you assist with the party?",
   "ipa": null,
-  "vi": "Bạn đang tìm kiếm điều gì ở một công việc?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/flexible_phrase/voiceclaire_topic_1_en_51.mp3"
+  "vi": "Bạn có thể hỗ trợ được gì trong buổi tiệc?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0168_How-can-you-assist-with-the-pa_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "What are you looking for in a job?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_51.mp3"
-}
-{
-  "lesson_id_13": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "What are you looking for in a job?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_51.mp3"
-}
-{
-  "lesson_id_13": null,
-  "typeBasic_LEARNING_PHRASE_QNA": null,
-  "en": "Are you looking for opportunities to learn new things?",
-  "ipa": null,
-  "vi": null,
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_phrase_qna/voiceclaire_topic_1_en_59.mp3"
-}
-{
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "I'm looking for",
-  "ipa": "/aɪm 'lʊkɪη fɔːr/",
-  "vi": "Tôi đang tìm kiếm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_52.mp3"
+  "en": "I can be",
+  "ipa": "/aɪ kæn biː/",
+  "vi": "Tôi có thể làm",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0064_I-can-be_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "Opportunities to learn new things",
-  "ipa": "/ˌɑːpərˈtuːnətɪz tuː lɜːrn nuː θɪηz/",
-  "vi": "Cơ hội để học nhiều thứ mới",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_56.mp3"
+  "en": "the organizer",
+  "ipa": "/ðiː ˈɔːrɡənaɪzər/",
+  "vi": "người tổ chức",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0065_the-organizer_48.0k_stereo.mp3"
 }
 {
-  "lesson_id_13": null,
+  "lesson_id_1348": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "What are you looking for in a job",
-  "ipa": "/wʌt ɑːr juː 'lʊkɪη fɔːr ɪn ə dʒɑːb/",
-  "vi": "Bạn đang tìm kiếm điều gì ở một công việc",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/audio_TC2022/learning_card/voiceclaire_topic_1_en_51.mp3"
+  "en": "How can you assist with the party",
+  "ipa": "/haʊ kæn juː əˈsɪst wɪθ ðə ˈpɑːrti:/",
+  "vi": "Bạn có thể hỗ trợ được gì trong buổi tiệc?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0066_How-can-you-assist-with-the-pa_48.0k_stereo.mp3"
 }
