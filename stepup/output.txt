@@ -1,780 +1,774 @@
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 1343,
-  "name_en": "Where are we hosting the party?",
-  "name_vi": "Chúng ta sẽ tổ chức buổi tiệc ở đâu?"
+  "lesson_id": 357,
+  "name_en": "Can you describe your symptoms?",
+  "name_vi": "Bạn có thể mô tả triệu chứng của mình không?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 1344,
-  "name_en": "When is the best time to schedule this party?",
-  "name_vi": "Buổi tiệc sẽ diễn ra vào lúc nào?"
+  "lesson_id": 358,
+  "name_en": "When did your symptoms start?",
+  "name_vi": "Các triệu chứng bạn gặp phải bắt đầu từ khi nào?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 1345,
-  "name_en": "Which gifts would they like?",
-  "name_vi": "Không biết các chị em chuộng quà gì nhỉ?"
+  "lesson_id": 359,
+  "name_en": "Have you experienced this before?",
+  "name_vi": "Bạn đã bị như vậy trước đó chưa?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 1346,
-  "name_en": "What activities should we do for the party?",
-  "name_vi": "Mình nên tổ chức hoạt động gì cho buổi tiệc?"
+  "lesson_id": 360,
+  "name_en": "Are there any medical issues or allergies that you have?",
+  "name_vi": "Bạn có tiền sử về bệnh gì hay bị dị ứng gì không?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 1347,
-  "name_en": "What will be on the menu?",
-  "name_vi": "Nên có món gì trong thực đơn?"
+  "lesson_id": 361,
+  "name_en": "Are there any medical issues or allergies that you have?",
+  "name_vi": "Bạn có tiền sử về bệnh gì hay bị dị ứng gì không?"
 }
 {
   "description": "HỌC CỤM CHUNKING",
-  "lesson_id": 1348,
-  "name_en": "How can you assist with the party?",
-  "name_vi": "Bạn có thể hỗ trợ được gì trong buổi tiệc?"
+  "lesson_id": 362,
+  "name_en": "What medication are you currently taking?",
+  "name_vi": "Bạn đã sử dụng loại thuốc gì rồi?"
 }
 {
   "description": "THỰC HÀNH VỚI ONION GPT",
-  "lesson_id": 1351,
-  "name_en": "Tổ chức 8/3 cùng anh em công ty",
+  "lesson_id": 1077,
+  "name_en": "Ốm thì đi khám",
   "name_vi": ""
 }
 {
   "description": "PHÁT TRIỂN Ý",
-  "lesson_id": 1361,
-  "name_en": "Which gifts would they like?",
+  "lesson_id": 1025,
+  "name_en": "Can you describe your symptoms?",
   "name_vi": ""
 }
 {
   "description": "PHÁT TRIỂN Ý",
-  "lesson_id": 1362,
-  "name_en": "What activities should we do for the party?",
+  "lesson_id": 1027,
+  "name_en": "What medication are you currently taking?",
   "name_vi": ""
 }
 {
-  "description": "PHÁT TRIỂN Ý",
-  "lesson_id": 1363,
-  "name_en": "How can you assist with the party?",
-  "name_vi": ""
-}
-{
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeOutline_NAP_CUM": null,
-  "en": "The party will take place at ____",
+  "en": "I have a ___________.",
   "ipa": null,
-  "vi": "Buổi tiệc sẽ diễn ra ở",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0061_The-party-will-take-place-at_48.0k_stereo.mp3"
+  "vi": "Tôi bị",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0086_I-have-a_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "the conference room",
+  "en": "headache",
   "ipa": null,
-  "vi": "phòng họp",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0062_the-conference-room_48.0k_stereo.mp3"
+  "vi": "đau đầu",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0087_headache_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "a restaurant",
+  "en": "fever",
   "ipa": null,
-  "vi": "nhà hàng",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0063_a-restaurant_48.0k_stereo.mp3"
+  "vi": "sốt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0088_fever_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "an event center",
+  "en": "sore throat",
   "ipa": null,
-  "vi": "trung tâm tổ chức sự kiện",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0064_an-event-center_48.0k_stereo.mp3"
+  "vi": "đau họng",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0089_sore-throat_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will take place at the conference room.",
+  "en": "I have a headache.",
   "ipa": null,
-  "vi": "Buổi tiệc sẽ diễn ra ở phòng họp.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0121_The-party-will-take-place-at-t_48.0k_stereo.mp3"
+  "vi": "Tôi bị đau đầu",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0137_I-have-a-headache_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will take place at the conference room.",
+  "en": "I have a headache.",
   "ipa": null,
-  "vi": "Buổi tiệc sẽ diễn ra ở phòng họp.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0122_The-party-will-take-place-at-t_48.0k_stereo.mp3"
+  "vi": "Tôi bị đau đầu",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0138_I-have-a-headache_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will take place at a restaurant.",
+  "en": "I have a fever.",
   "ipa": null,
-  "vi": "Buổi tiệc sẽ diễn ra ở nhà hàng.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0123_The-party-will-take-place-at-a_48.0k_stereo.mp3"
+  "vi": "Tôi bị sốt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0139_I-have-a-fever_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will take place at an event center.",
+  "en": "I have a sore throat.",
   "ipa": null,
-  "vi": "Buổi tiệc sẽ diễn ra ở trung tâm tổ chức sự kiện.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0124_The-party-will-take-place-at-a_48.0k_stereo.mp3"
+  "vi": "Tôi bị đau họng",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0140_I-have-a-sore-throat_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will take place at the conference room.",
+  "en": "I have a headache.",
   "ipa": null,
-  "vi": "Buổi tiệc sẽ diễn ra ở phòng họp.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0125_The-party-will-take-place-at-t_48.0k_stereo.mp3"
+  "vi": "Tôi bị đau đầu",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0141_I-have-a-headache_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will take place at a restaurant.",
+  "en": "I have a fever.",
   "ipa": null,
-  "vi": "Buổi tiệc sẽ diễn ra ở nhà hàng.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0126_The-party-will-take-place-at-a_48.0k_stereo.mp3"
+  "vi": "Tôi bị sốt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0142_I-have-a-fever_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will take place at an event center.",
+  "en": "I have a sore throat.",
   "ipa": null,
-  "vi": "Buổi tiệc sẽ diễn ra ở trung tâm tổ chức sự kiện.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0127_The-party-will-take-place-at-a_48.0k_stereo.mp3"
+  "vi": "Tôi bị đau họng",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0143_I-have-a-sore-throat_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "Where are we hosting the party?",
+  "en": "Can you describe your symptoms?",
   "ipa": null,
-  "vi": "Chúng ta sẽ tổ chức buổi tiệc ở đâu?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0128_Where-are-we-hosting-the-party_48.0k_stereo.mp3"
+  "vi": "Bạn có thể mô tả triệu chứng của mình không?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0144_Can-you-describe-your-symptoms_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "The party will take place at",
-  "ipa": "/ðə ˈpɑːrti: wɪl teɪk pleɪs æt/",
-  "vi": "Buổi tiệc sẽ diễn ra ở",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0049_The-party-will-take-place-at_48.0k_stereo.mp3"
+  "en": "I have a",
+  "ipa": "/aɪ hæv ə/",
+  "vi": "tôi bị",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0057_I-have-a_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "the conference room",
-  "ipa": "/ðə ˈkɑːnfərəns ru:m/",
-  "vi": "phòng họp",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0050_the-conference-room_48.0k_stereo.mp3"
+  "en": "headache",
+  "ipa": "/ˈhedeɪk/",
+  "vi": "đau đầu",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0058_headache_48k_stereo.mp3"
 }
 {
-  "lesson_id_1343": null,
+  "lesson_id_357": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "Where are we hosting the party",
-  "ipa": "/wer ɑːr wiː həʊstɪŋ ðə ˈpɑːrti:/",
-  "vi": "Chúng ta sẽ tổ chức buổi tiệc ở đâu?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0051_Where-are-we-hosting-the-party_48.0k_stereo.mp3"
+  "en": "Can you describe your symptoms",
+  "ipa": "/kæn juː dɪˈskraɪb jʊr ˈsɪmptəmz/",
+  "vi": "Bạn có thể mô tả triệu chứng của mình không?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0059_Can-you-describe-your-symptoms_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeOutline_NAP_CUM": null,
-  "en": "The party will be ___",
+  "en": "My symptoms started ___________.",
   "ipa": null,
-  "vi": "Buổi tiệc(sẽ diễn ra) ",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0065_The-party-will-be_48.0k_stereo.mp3"
+  "vi": "Các triệu chứng bắt đầu",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0091_My-symptoms-started_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "after work",
+  "en": "three days ago",
   "ipa": null,
-  "vi": "sau giờ làm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0066_after-work_48.0k_stereo.mp3"
+  "vi": "ba ngày trước",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0092_three-days-ago_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "during lunch",
+  "en": "recently",
   "ipa": null,
-  "vi": "trong giờ ăn trưa",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0067_during-lunch_48.0k_stereo.mp3"
+  "vi": "gần đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0093_recently_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "on the weekend",
+  "en": "yesterday",
   "ipa": null,
-  "vi": "vào cuối tuần",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0068_on-the-weekend_48.0k_stereo.mp3"
+  "vi": "hôm qua",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0094_yesterday_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will be after work.",
+  "en": "My symptoms started three days ago.",
   "ipa": null,
-  "vi": "Buổi tiệc(sẽ diễn ra) sau giờ làm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0129_The-party-will-be-after-work_48.0k_stereo.mp3"
+  "vi": "Các triệu chứng bắt đầu ba ngày trước",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0145_My-symptoms-started-three-days_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will be after work.",
+  "en": "My symptoms started three days ago.",
   "ipa": null,
-  "vi": "Buổi tiệc(sẽ diễn ra) sau giờ làm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0130_The-party-will-be-after-work_48.0k_stereo.mp3"
+  "vi": "Các triệu chứng bắt đầu ba ngày trước",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0146_My-symptoms-started-three-days_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will be during lunch.",
+  "en": "My symptoms started recently.",
   "ipa": null,
-  "vi": "Buổi tiệc(sẽ diễn ra) trong giờ ăn trưa.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0131_The-party-will-be-during-lunch_48.0k_stereo.mp3"
+  "vi": "Các triệu chứng bắt đầu gần đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0147_My-symptoms-started-recently_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will be on the weekend.",
+  "en": "My symptoms started yesterday.",
   "ipa": null,
-  "vi": "Buổi tiệc(sẽ diễn ra) vào cuối tuần.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0132_The-party-will-be-on-the-weeke_48.0k_stereo.mp3"
+  "vi": "Các triệu chứng bắt đầu từ hôm qua",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0148_My-symptoms-started-yesterday_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will be after work.",
+  "en": "My symptoms started three days ago.",
   "ipa": null,
-  "vi": "Buổi tiệc(sẽ diễn ra) sau giờ làm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0133_The-party-will-be-after-work_48.0k_stereo.mp3"
+  "vi": "Các triệu chứng bắt đầu ba ngày trước",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0149_My-symptoms-started-three-days_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will be during lunch.",
+  "en": "My symptoms started recently.",
   "ipa": null,
-  "vi": "Buổi tiệc(sẽ diễn ra) trong giờ ăn trưa.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0134_The-party-will-be-during-lunch_48.0k_stereo.mp3"
+  "vi": "Các triệu chứng bắt đầu gần đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0150_My-symptoms-started-recently_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "The party will be on the weekend.",
+  "en": "My symptoms started yesterday.",
   "ipa": null,
-  "vi": "Buổi tiệc(sẽ diễn ra) vào cuối tuần.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0135_The-party-will-be-on-the-weeke_48.0k_stereo.mp3"
+  "vi": "Các triệu chứng bắt đầu từ hôm qua",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0151_My-symptoms-started-yesterday_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "When is the best time to schedule this party?",
+  "en": "When did your symptoms start?",
   "ipa": null,
-  "vi": "Buổi tiệc sẽ diễn ra vào lúc nào?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0136_When-is-the-best-time-to-sched_48.0k_stereo.mp3"
+  "vi": "Các triệu chứng bạn gặp phải bắt đầu từ khi nào?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0152_When-did-your-symptoms-start_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "The party will be",
-  "ipa": "/ðə ˈpɑːrti: wɪl biː/",
-  "vi": "Buổi tiệc(sẽ diễn ra)",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0052_The-party-will-be_48.0k_stereo.mp3"
+  "en": "My symptoms started",
+  "ipa": "/maɪ ˈsɪmptəmz stɑːrtɪd/",
+  "vi": "các triệu chứng bắt đầu",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0060_My-symptoms-started_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "after work",
-  "ipa": "/ˈæftər wɜːrk/",
-  "vi": "sau giờ làm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0053_after-work_48.0k_stereo.mp3"
+  "en": "three days ago",
+  "ipa": "/θriː deɪz əˈgəʊ/",
+  "vi": "ba ngày trước",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0061_three-days-ago_48k_stereo.mp3"
 }
 {
-  "lesson_id_1344": null,
+  "lesson_id_358": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "When is the best time to schedule this party",
-  "ipa": "/wen ɪz ðə best taɪm tuː ˈskedʒuːl ðɪs ˈpɑːrti:/",
-  "vi": "Buổi tiệc sẽ diễn ra vào lúc nào?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0054_When-is-the-best-time-to-sched_48.0k_stereo.mp3"
+  "en": "When did your symptoms start",
+  "ipa": "/wen dɪd jʊr ˈsɪmptəmz stɑːrt/",
+  "vi": "Các triệu chứng bạn gặp phải bắt đầu từ khi nào?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0062_When-did-your-symptoms-start_48k_stereo.mp3"
 }
 {
-  "lesson_id_1345": null,
+  "lesson_id_359": null,
   "typeOutline_NAP_CUM": null,
-  "en": "We plan to give them ___",
+  "en": "Yes, I have ___ this before.",
   "ipa": null,
-  "vi": "Chúng ta dự định sẽ tặng cho họ ",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0069_We-plan-to-give-them_48.0k_stereo.mp3"
+  "vi": "Đúng vậy, tôi từng bị ___ trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0096_Yes-I-have-this-before_48k_stereo.mp3"
 }
 {
-  "lesson_id_1345": null,
-  "typeOutline_GHEP_CAU": null,
-  "en": "fresh flowers",
-  "ipa": null,
-  "vi": "hoa tươi",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0070_fresh-flowers_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeOutline_GHEP_CAU": null,
-  "en": "notebooks",
-  "ipa": null,
-  "vi": "những cuốn sổ tay",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0071_notebooks_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeOutline_GHEP_CAU": null,
-  "en": "beauty products",
-  "ipa": null,
-  "vi": "mỹ phẩm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0072_beauty-products_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We plan to give them fresh flowers.",
-  "ipa": null,
-  "vi": "Chúng ta dự định sẽ tặng cho họ hoa tươi.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0137_We-plan-to-give-them-fresh-flo_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We plan to give them fresh flowers.",
-  "ipa": null,
-  "vi": "Chúng ta dự định sẽ tặng cho họ hoa tươi.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0138_We-plan-to-give-them-fresh-flo_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We plan to give them notebooks.",
-  "ipa": null,
-  "vi": "Chúng ta dự định sẽ tặng cho họ những cuốn sổ tay.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0139_We-plan-to-give-them-notebooks_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We plan to give them beauty products.",
-  "ipa": null,
-  "vi": "Chúng ta dự định sẽ tặng cho họ mỹ phẩm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0140_We-plan-to-give-them-beauty-pr_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We plan to give them fresh flowers.",
-  "ipa": null,
-  "vi": "Chúng ta dự định sẽ tặng cho họ hoa tươi.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0141_We-plan-to-give-them-fresh-flo_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We plan to give them notebooks.",
-  "ipa": null,
-  "vi": "Chúng ta dự định sẽ tặng cho họ những cuốn sổ tay.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0142_We-plan-to-give-them-notebooks_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We plan to give them beauty products.",
-  "ipa": null,
-  "vi": "Chúng ta dự định sẽ tặng cho họ mỹ phẩm.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0143_We-plan-to-give-them-beauty-pr_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "Which gifts would they like?",
-  "ipa": null,
-  "vi": "Không biết các chị em chuộng quà gì nhỉ?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0144_Which-gifts-would-they-like_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_LEARNING_CARD": null,
-  "en": "We plan to give them",
-  "ipa": "/wiː plæn tuː ɡɪv ðem/",
-  "vi": "Chúng ta dự định sẽ tặng cho họ",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0055_We-plan-to-give-them_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_LEARNING_CARD": null,
-  "en": "fresh flowers",
-  "ipa": "/freʃ ˈflaʊərz/",
-  "vi": "hoa tươi",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0056_fresh-flowers_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1345": null,
-  "typeBasic_LEARNING_CARD": null,
-  "en": "Which gifts would they like",
-  "ipa": "/wɪtʃ ɡɪfts wʊd ðeɪ laɪk/",
-  "vi": "Không biết các chị em chuộng quà gì nhỉ?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0057_Which-gifts-would-they-like_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeOutline_NAP_CUM": null,
-  "en": "We will set up ___",
+  "en": "No, I have not ___ this before",
   "ipa": null,
-  "vi": "Chúng ta sẽ sắp xếp ",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0073_We-will-set-up_48.0k_stereo.mp3"
+  "vi": "Không, tôi chưa từng bị ___ trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0097_No-I-have-not-this-before_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "a photo booth",
+  "en": "experienced",
   "ipa": null,
-  "vi": "quầy chụp ảnh",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0074_a-photobooth_48.0k_stereo.mp3"
+  "vi": "trải qua",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0098_experienced_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "a movie screening",
+  "en": "overcome",
   "ipa": null,
-  "vi": "buổi chiếu phim",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0075_a-movie-screening_48.0k_stereo.mp3"
+  "vi": "vượt qua",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0099_overcome_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "a dessert buffet",
+  "en": "suffered",
   "ipa": null,
-  "vi": "quầy tráng miệng tự chọn",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0076_a-dessert-buffet_48.0k_stereo.mp3"
+  "vi": "đau khổ",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0100_suffered_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We will set up a photo booth.",
+  "en": "Yes, I have experienced this before.",
   "ipa": null,
-  "vi": "Chúng ta sẽ sắp xếp quầy chụp ảnh.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0145_We-will-set-up-a-photobooth_48.0k_stereo.mp3"
+  "vi": "Đúng vậy, tôi từng trải qua trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0153_Yes-I-have-experienced-this-b_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We will set up a photo booth.",
+  "en": "No, I have not experienced this before",
   "ipa": null,
-  "vi": "Chúng ta sẽ sắp xếp quầy chụp ảnh.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0146_We-will-set-up-a-photobooth_48.0k_stereo.mp3"
+  "vi": "Không, tôi chưa từng trải qua trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0154_No-I-have-not-experienced-thi_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We will set up a movie screening.",
+  "en": "Yes, I have experienced this before.",
   "ipa": null,
-  "vi": "Chúng ta sẽ sắp xếp buổi chiếu phim.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0147_We-will-set-up-a-movie-screeni_48.0k_stereo.mp3"
+  "vi": "Đúng vậy, tôi từng trải qua trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0155_Yes-I-have-experienced-this-b_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We will set up a dessert buffet.",
+  "en": "No, I have not experienced this before",
   "ipa": null,
-  "vi": "Chúng ta sẽ sắp xếp quầy tráng miệng tự chọn.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0148_We-will-set-up-a-dessert-buffe_48.0k_stereo.mp3"
+  "vi": "Không, tôi chưa từng trải qua trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0156_No-I-have-not-experienced-thi_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We will set up a photo booth.",
+  "en": "Yes, I have overcome this before.",
   "ipa": null,
-  "vi": "Chúng ta sẽ sắp xếp quầy chụp ảnh.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0149_We-will-set-up-a-photobooth_48.0k_stereo.mp3"
+  "vi": "Đúng vậy, tôi từng vượt qua điều này trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0157_Yes-I-have-overcome-this-befo_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We will set up a movie screening.",
+  "en": "No, I have not suffered this before",
   "ipa": null,
-  "vi": "Chúng ta sẽ sắp xếp buổi chiếu phim.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0150_We-will-set-up-a-movie-screeni_48.0k_stereo.mp3"
+  "vi": "Không, tôi chưa từng chịu đựng điều này trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0158_No-I-have-not-suffered-this-b_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We will set up a dessert buffet.",
+  "en": "Yes, I have experienced this before.",
   "ipa": null,
-  "vi": "Chúng ta sẽ sắp xếp quầy tráng miệng tự chọn.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0151_We-will-set-up-a-dessert-buffe_48.0k_stereo.mp3"
+  "vi": "Đúng vậy, tôi từng trải qua trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0159_Yes-I-have-experienced-this-b_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "What activities should we do for the party?",
+  "en": "No, I have not experienced this before",
   "ipa": null,
-  "vi": "Mình nên tổ chức hoạt động gì cho buổi tiệc?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0152_What-activities-should-we-do-f_48.0k_stereo.mp3"
+  "vi": "Không, tôi chưa từng trải qua trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0160_No-I-have-not-experienced-thi_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "Yes, I have overcome this before.",
+  "ipa": null,
+  "vi": "Đúng vậy, tôi từng vượt qua điều này trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0161_Yes-I-have-overcome-this-befo_48k_stereo.mp3"
+}
+{
+  "lesson_id_359": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "Yes, I have suffered this before.",
+  "ipa": null,
+  "vi": "Đúng vậy, tôi từng chịu đựng điều này trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0162_Yes-I-have-suffered-this-befo_48k_stereo.mp3"
+}
+{
+  "lesson_id_359": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "Have you experienced this before?",
+  "ipa": null,
+  "vi": "Bạn đã bị như vậy trước đó chưa?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0163_Have-you-experienced-this-befo_48k_stereo.mp3"
+}
+{
+  "lesson_id_359": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "We will set up",
-  "ipa": "/wiː wɪl set ʌp/",
-  "vi": "Chúng ta sẽ sắp xếp",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0058_We-will-set-up_48.0k_stereo.mp3"
+  "en": "Yes I have",
+  "ipa": "/jes aɪ hæv/",
+  "vi": "đúng vậy, tôi từng bị",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0040_Yes-I-have_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "a photo booth",
-  "ipa": "/ə ˈfəʊtəʊ buːθ/",
-  "vi": "quầy chụp ảnh",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0059_a-photobooth_48.0k_stereo.mp3"
+  "en": "this before",
+  "ipa": "/ðɪs bɪˈfɔːr/",
+  "vi": "trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0064_this-before_48k_stereo.mp3"
 }
 {
-  "lesson_id_1346": null,
+  "lesson_id_359": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "What activities should we do for the party",
-  "ipa": "/wʌt ækˈtɪvətiz ʃʊd wiː duː fɔːr ðə ˈpɑːrti:/",
-  "vi": "Mình nên tổ chức hoạt động gì cho buổi tiệc?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0060_What-activities-should-we-do-f_48.0k_stereo.mp3"
+  "en": "experienced",
+  "ipa": "/ɪkˈspɪriːənst/",
+  "vi": "trải qua",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0065_experienced_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_359": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "No I have not experienced this before",
+  "ipa": "/nəʊ aɪ hæv nɑːt ɪkˈspɪriːənst ðɪs bɪˈfɔːr/",
+  "vi": "không, tôi chưa từng trải qua điều này trước đây",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0066_No-I-have-not-experienced-this_48k_stereo.mp3"
+}
+{
+  "lesson_id_359": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "Have you experienced this before",
+  "ipa": "/hæv juː ɪkˈspɪriːənst ðɪs bɪˈfɔːr/",
+  "vi": "Bạn đã bị như vậy trước đó chưa?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0067_Have-you-experienced-this-befo_48k_stereo.mp3"
+}
+{
+  "lesson_id_360": null,
   "typeOutline_NAP_CUM": null,
-  "en": "We are going to eat ___",
+  "en": "I'm allergic to ___________",
   "ipa": null,
-  "vi": "Chúng ta sẽ ăn ",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0077_We-are-going-to-eat_48.0k_stereo.mp3"
+  "vi": "Tôi bị dị ứng với",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0102_Im-allergic-to_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "fresh spring rolls",
+  "en": "seafood",
   "ipa": null,
-  "vi": "gỏi cuốn",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0078_fresh-spring-rolls_48.0k_stereo.mp3"
+  "vi": "hải sản",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0103_seafood_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "sandwiches",
+  "en": "cold",
   "ipa": null,
-  "vi": "bánh kẹp",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0079_sandwiches_48.0k_stereo.mp3"
+  "vi": "lạnh",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0104_cold_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "fresh fruits",
+  "en": "pain relievers",
   "ipa": null,
-  "vi": "hoa quả tươi",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0080_fresh-fruits_48.0k_stereo.mp3"
+  "vi": "thuốc giảm đau",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0105_pain-relievers_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We are going to eat fresh spring rolls.",
+  "en": "I'm allergic to seafood.",
   "ipa": null,
-  "vi": "Chúng ta sẽ ăn gỏi cuốn.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0153_We-are-going-to-eat-fresh-spri_48.0k_stereo.mp3"
+  "vi": "Tôi bị dị ứng với hải sản",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0164_Im-allergic-to-seafood_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We are going to eat fresh spring rolls.",
+  "en": "I'm allergic to seafood.",
   "ipa": null,
-  "vi": "Chúng ta sẽ ăn gỏi cuốn.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0154_We-are-going-to-eat-fresh-spri_48.0k_stereo.mp3"
+  "vi": "Tôi bị dị ứng với hải sản",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0166_Im-allergic-to-seafood_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We are going to eat sandwiches.",
+  "en": "I'm allergic to cold",
   "ipa": null,
-  "vi": "Chúng ta sẽ ăn bánh kẹp.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0155_We-are-going-to-eat-sandwiches_48.0k_stereo.mp3"
+  "vi": "Tôi bị dị ứng với trời lạnh",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0168_Im-allergic-to-cold_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We are going to eat fresh fruits.",
+  "en": "I'm allergic to seafood.",
   "ipa": null,
-  "vi": "Chúng ta sẽ ăn hoa quả tươi.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0156_We-are-going-to-eat-fresh-frui_48.0k_stereo.mp3"
+  "vi": "Tôi bị dị ứng với hải sản",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0170_Im-allergic-to-seafood_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We are going to eat fresh spring rolls.",
+  "en": "I'm allergic to cold",
   "ipa": null,
-  "vi": "Chúng ta sẽ ăn gỏi cuốn.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0157_We-are-going-to-eat-fresh-spri_48.0k_stereo.mp3"
+  "vi": "Tôi bị dị ứng với trời lạnh",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0172_Im-allergic-to-cold_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We are going to eat sandwiches.",
+  "en": "I'm allergic to pain relievers",
   "ipa": null,
-  "vi": "Chúng ta sẽ ăn bánh kẹp.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0158_We-are-going-to-eat-sandwiches_48.0k_stereo.mp3"
+  "vi": "Tôi bị dị ứng với thuốc giảm đau",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0173_Im-allergic-to-pain-relievers_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "We are going to eat fresh fruits.",
+  "en": "Are there any medical issues or allergies that you have?",
   "ipa": null,
-  "vi": "Chúng ta sẽ ăn hoa quả tươi.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0159_We-are-going-to-eat-fresh-frui_48.0k_stereo.mp3"
+  "vi": "Bạn có tiền sử về bệnh gì hay bị dị ứng gì không?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0174_Are-there-any-medical-issues-o_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "What will be on the menu?",
-  "ipa": null,
-  "vi": "Nên có món gì trong thực đơn?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0160_What-will-be-on-the-menu_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "We are going to eat",
-  "ipa": "/wiː ɑːr ˈɡəʊɪŋ tuː iːt/",
-  "vi": "Chúng ta sẽ ăn",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0061_We-are-going-to-eat_48.0k_stereo.mp3"
+  "en": "I'm allergic to",
+  "ipa": "/aɪm əˈlɜːrdʒɪk tuː/",
+  "vi": "tôi bị dị ứng với",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0068_Im-allergic-to_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "fresh spring rolls",
-  "ipa": "/freʃ sprɪŋ rəʊlz/",
-  "vi": "gỏi cuốn",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0062_fresh-spring-rolls_48.0k_stereo.mp3"
+  "en": "seafood",
+  "ipa": "/ˈsiːfuːd/",
+  "vi": "hải sản",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0069_seafood_48k_stereo.mp3"
 }
 {
-  "lesson_id_1347": null,
+  "lesson_id_360": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "What will be on the menu",
-  "ipa": "/wʌt wɪl biː ɑːn ðə ˈmenjuː/",
-  "vi": "Nên có món gì trong thực đơn?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0063_What-will-be-on-the-menu_48.0k_stereo.mp3"
+  "en": "Are there any medical issues or allergies that you have",
+  "ipa": "/ɑːr ðer ˈeniː ˈmedɪkl ˈɪ∫uːz ɔːr ˈælərdʒɪz ðæt juː hæv/",
+  "vi": "Bạn có tiền sử về bệnh gì hay bị dị ứng gì không?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0072_Are-there-any-medical-issues-o_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeOutline_NAP_CUM": null,
-  "en": "I can be ___",
+  "en": "I don't have any ____ .",
   "ipa": null,
-  "vi": "Tôi có thể làm ",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0081_I-can-be_48.0k_stereo.mp3"
+  "vi": "Tôi không bị bất kì",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0107_I-dont-have-any_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "the organizer",
+  "en": "physical limitations",
   "ipa": null,
-  "vi": "người tổ chức",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0082_the-organizer_48.0k_stereo.mp3"
+  "vi": "hạn chế về thể chất",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0108_physical-limitations_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "the photographer",
+  "en": "medical issues",
   "ipa": null,
-  "vi": "nhiếp ảnh gia",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0083_the-photographer_48.0k_stereo.mp3"
+  "vi": "những vấn đề y khoa",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0109_medical-issues_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeOutline_GHEP_CAU": null,
-  "en": "the decorator",
+  "en": "allergies",
   "ipa": null,
-  "vi": "người trang trí",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0084_the-decorator_48.0k_stereo.mp3"
+  "vi": "dị ứng",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0110_allergies_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I can be the organizer.",
+  "en": "I don't have any physical limitations.",
   "ipa": null,
-  "vi": "Tôi có thể làm người tổ chức.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0161_I-can-be-the-organizer_48.0k_stereo.mp3"
+  "vi": "Tôi không có bất kì hạn chế về thể chất",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0165_I-dont-have-any-physical-limi_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I can be the organizer.",
+  "en": "I don't have any physical limitations.",
   "ipa": null,
-  "vi": "Tôi có thể làm người tổ chức.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0162_I-can-be-the-organizer_48.0k_stereo.mp3"
+  "vi": "Tôi không có bất kì hạn chế về thể chất",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0167_I-dont-have-any-physical-limi_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I can be the photographer.",
+  "en": "I don't have any allergies.",
   "ipa": null,
-  "vi": "Tôi có thể làm nhiếp ảnh gia.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0163_I-can-be-the-photographer_48.0k_stereo.mp3"
+  "vi": "Tôi không bị dị ứng",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0169_I-dont-have-any-allergies_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I can be the decorator.",
+  "en": "I don't have any physical limitations.",
   "ipa": null,
-  "vi": "Tôi có thể làm người trang trí.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0164_I-can-be-the-decorator_48.0k_stereo.mp3"
+  "vi": "Tôi không có bất kì hạn chế về thể chất",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0171_I-dont-have-any-physical-limi_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I can be the organizer.",
-  "ipa": null,
-  "vi": "Tôi có thể làm người tổ chức.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0165_I-can-be-the-organizer_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1348": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I can be the photographer.",
-  "ipa": null,
-  "vi": "Tôi có thể làm nhiếp ảnh gia.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0166_I-can-be-the-photographer_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1348": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "I can be the decorator.",
-  "ipa": null,
-  "vi": "Tôi có thể làm người trang trí.",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0167_I-can-be-the-decorator_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1348": null,
-  "typeBasic_FLEXIBLE_PHRASE": null,
-  "en": "How can you assist with the party?",
-  "ipa": null,
-  "vi": "Bạn có thể hỗ trợ được gì trong buổi tiệc?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0168_How-can-you-assist-with-the-pa_48.0k_stereo.mp3"
-}
-{
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "I can be",
-  "ipa": "/aɪ kæn biː/",
-  "vi": "Tôi có thể làm",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0064_I-can-be_48.0k_stereo.mp3"
+  "en": "I don't have any",
+  "ipa": "/aɪ dəʊnt hæv ˈeniː/",
+  "vi": "tôi không bị bất kì",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0070_I-dont-have-any_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_361": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "the organizer",
-  "ipa": "/ðiː ˈɔːrɡənaɪzər/",
-  "vi": "người tổ chức",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0065_the-organizer_48.0k_stereo.mp3"
+  "en": "Physical limitations",
+  "ipa": "/ˈfɪzɪkl ˌlɪmɪˈteɪ∫nz/",
+  "vi": "hạn chế về thể chất",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0071_Physical-limitations_48k_stereo.mp3"
 }
 {
-  "lesson_id_1348": null,
+  "lesson_id_362": null,
+  "typeOutline_NAP_CUM": null,
+  "en": "I am currently taking ___________ .",
+  "ipa": null,
+  "vi": "Tôi hiện đang dùng",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0112_I-am-currently-taking_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "painkiller",
+  "ipa": null,
+  "vi": "thuốc giảm đau",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0113_painkiller_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "aspirin",
+  "ipa": null,
+  "vi": "thuốc giảm đau, hạ sốt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0114_aspirin_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeOutline_GHEP_CAU": null,
+  "en": "eye drops",
+  "ipa": null,
+  "vi": "thuốc nhỏ mắt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/lesson_outline/BL-0115_eyes-drops_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I am currently taking painkiller.",
+  "ipa": null,
+  "vi": "Tôi hiện đang dùng thuốc giảm đau",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0175_I-am-currently-taking-painkill_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I am currently taking painkiller.",
+  "ipa": null,
+  "vi": "Tôi hiện đang dùng thuốc giảm đau",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0176_I-am-currently-taking-painkill_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I am currently taking aspirin.",
+  "ipa": null,
+  "vi": "Tôi hiện đang dùng thuốc hạ sốt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0177_I-am-currently-taking-aspirin_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I am currently taking eye drops.",
+  "ipa": null,
+  "vi": "Tôi hiện đang dùng thuốc nhỏ mắt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0178_I-am-currently-taking-eye-drop_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I am currently taking painkiller.",
+  "ipa": null,
+  "vi": "Tôi hiện đang dùng thuốc giảm đau",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0179_I-am-currently-taking-painkill_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I am currently taking aspirin.",
+  "ipa": null,
+  "vi": "Tôi hiện đang dùng thuốc hạ sốt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0180_I-am-currently-taking-aspirin_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "I am currently taking eye drops.",
+  "ipa": null,
+  "vi": "Tôi hiện đang dùng thuốc nhỏ mắt",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0181_I-am-currently-taking-eye-drop_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_FLEXIBLE_PHRASE": null,
+  "en": "What medication are you currently taking?",
+  "ipa": null,
+  "vi": "Bạn đã sử dụng loại thuốc gì rồi?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/flexible/BL-0182_What-medication-are-you-curren_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
   "typeBasic_LEARNING_CARD": null,
-  "en": "How can you assist with the party",
-  "ipa": "/haʊ kæn juː əˈsɪst wɪθ ðə ˈpɑːrti:/",
-  "vi": "Bạn có thể hỗ trợ được gì trong buổi tiệc?",
-  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0066_How-can-you-assist-with-the-pa_48.0k_stereo.mp3"
+  "en": "I am currently taking",
+  "ipa": "/aɪ æm ˈkɜːrəntliː ˈteɪkɪη/",
+  "vi": "tôi hiện đang dùng",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0073_I-am-currently-taking_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "Painkiller",
+  "ipa": "/ˈpeɪnkɪlər/",
+  "vi": "thuốc giảm đau",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0074_Painkiller_48k_stereo.mp3"
+}
+{
+  "lesson_id_362": null,
+  "typeBasic_LEARNING_CARD": null,
+  "en": "What medication are you currently taking",
+  "ipa": "/wʌt ˌmedɪˈkeɪ∫n ɑːr juː ˈkɜːrəntliː ˈteɪkɪη/",
+  "vi": "Bạn đã sử dụng loại thuốc gì rồi?",
+  "audio": "https://smedia.stepup.edu.vn/thecoach/giaotiep/audio/learningcard/BL-0075_What-medication-are-you-curren_48k_stereo.mp3"
 }
