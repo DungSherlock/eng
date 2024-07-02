@@ -1,1 +1,24 @@
-If you want your relationship to work, constantly remind yourself that the other is more significant than you.|240702
+I work at an education company.|S01T02004.01-I-work-at-an-education-company
+I work at a technology company.|S01T02004.02-I-work-at-a-technology-company
+I work at a retail company.|S01T02004.03-I-work-at-a-retail-company
+I have been working there for a year and a half.|S01T02006.01-I-have-been-working-there-for-a-year-and-a-half
+I have been working there for about two years.|S01T02006.02-I-have-been-working-there-for-about-two-years
+I have been working there for less than two years.|S01T02006.03-I-have-been-working-there-for-less-than-two-years
+I like the work environment.|S01T02007.01-I-like-the-work-environment
+I like the company's product.|S01T02007.02-I-like-the-company's-product
+I like the company's culture.|S01T02007.03-I-like-the-company's-culture
+My greatest strength is communication skills.|S01T02010.01-My-greatest-strength-is-communication-skills
+My greatest strength is problem-solving skills.|S01T02010.02-My-greatest-strength-is-problem-solving-skills
+My greatest strength is teamwork skills.|S01T02010.03-My-greatest-strength-is-teamwork-skills
+My greatest weakness is lack of confidence.|S01T02011.01-My-greatest-weakness-is-lack-of-confidence
+My greatest weakness is lack of flexibility.|S01T02011.02-My-greatest-weakness-is-lack-of-flexibility
+My greatest weakness is lack of English skills.|S01T02011.03-My-greatest-weakness-is-lack-of-English-skills
+I'm looking for opportunities to learn new things.|S01T02013.01-I'm-looking-for-opportunities-to-learn-new-things
+I'm looking for good benefit packages.|S01T02013.02-I'm-looking-for-good-benefit-packages
+I'm looking for opportunities to develop myself.|S01T02013.03-I'm-looking-for-opportunities-to-develop-myself
+Which company do you work at|S01T02004.00-Which-company-do-you-work-at
+How long have you been working there|S01T02006.00-How-long-have-you-been-working-there
+What do you like about our company|S01T02007.00-What-do-you-like-about-our-company
+What is your greatest strength|S01T02010.00-What-is-your-greatest-strength
+What is your greatest weakness|S01T02011.00-What-is-your-greatest-weakness
+What are you looking for in a job|S01T02013.00-What-are-you-looking-for-in-a-job
