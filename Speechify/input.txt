@@ -1,24 +1,20 @@
-I work at an education company.|S01T02004.01-I-work-at-an-education-company
-I work at a technology company.|S01T02004.02-I-work-at-a-technology-company
-I work at a retail company.|S01T02004.03-I-work-at-a-retail-company
-I have been working there for a year and a half.|S01T02006.01-I-have-been-working-there-for-a-year-and-a-half
-I have been working there for about two years.|S01T02006.02-I-have-been-working-there-for-about-two-years
-I have been working there for less than two years.|S01T02006.03-I-have-been-working-there-for-less-than-two-years
-I like the work environment.|S01T02007.01-I-like-the-work-environment
-I like the company's product.|S01T02007.02-I-like-the-company's-product
-I like the company's culture.|S01T02007.03-I-like-the-company's-culture
-My greatest strength is communication skills.|S01T02010.01-My-greatest-strength-is-communication-skills
-My greatest strength is problem-solving skills.|S01T02010.02-My-greatest-strength-is-problem-solving-skills
-My greatest strength is teamwork skills.|S01T02010.03-My-greatest-strength-is-teamwork-skills
-My greatest weakness is lack of confidence.|S01T02011.01-My-greatest-weakness-is-lack-of-confidence
-My greatest weakness is lack of flexibility.|S01T02011.02-My-greatest-weakness-is-lack-of-flexibility
-My greatest weakness is lack of English skills.|S01T02011.03-My-greatest-weakness-is-lack-of-English-skills
-I'm looking for opportunities to learn new things.|S01T02013.01-I'm-looking-for-opportunities-to-learn-new-things
-I'm looking for good benefit packages.|S01T02013.02-I'm-looking-for-good-benefit-packages
-I'm looking for opportunities to develop myself.|S01T02013.03-I'm-looking-for-opportunities-to-develop-myself
-Which company do you work at|S01T02004.00-Which-company-do-you-work-at
-How long have you been working there|S01T02006.00-How-long-have-you-been-working-there
-What do you like about our company|S01T02007.00-What-do-you-like-about-our-company
-What is your greatest strength|S01T02010.00-What-is-your-greatest-strength
-What is your greatest weakness|S01T02011.00-What-is-your-greatest-weakness
-What are you looking for in a job|S01T02013.00-What-are-you-looking-for-in-a-job
+I'm from Vietnam.|S01T003016.01-I'm-from-Vietnam
+I'm from Japan.|S01T003016.02-I'm-from-Japan
+I'm from China.|S01T003016.03-I'm-from-China
+I'm a teacher.|S01T003017.01-I'm-a-teacher
+I'm a banker.|S01T003017.02-I'm-a-banker
+I'm a student.|S01T003017.03-I'm-a-student
+I do the housework after work.|S01T003018.01-I-do-the-housework-after-work
+I hang out with my friends after work.|S01T003018.02-I-hang-out-with-my-friends-after-work
+I work on my side hustle after work.|S01T003018.03-I-work-on-my-side-hustle-after-work
+My hobby is playing the guitar.|S01T003020.01-My-hobby-is-playing-the-guitar
+My hobby is exercising.|S01T003020.02-My-hobby-is-exercising
+My hobby is cooking.|S01T003020.03-My-hobby-is-cooking
+You can get in touch with me through Facebook.|S01T003021.01-You-can-get-in-touch-with-me-through-Facebook
+You can get in touch with me by phone.|S01T003021.02-You-can-get-in-touch-with-me-by-phone
+You can get in touch with me by e-mail.|S01T003021.03-You-can-get-in-touch-with-me-by-e-mail
+Where are you from|S01T003016.00-Where-are-you-from
+What do you do|S01T003017.00-What-do-you-do
+What do you usually do after work|S01T003018.00-What-do-you-usually-do-after-work
+What is your hobby|S01T003020.00-What-is-your-hobby
+How can I get in touch with you|S01T003021.00-How-can-I-get-in-touch-with-you
