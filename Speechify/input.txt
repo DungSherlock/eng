@@ -1,1 +1,8 @@
-1. I know how to learn, I can figure this out.|1-I-know-how-to-learn-I-can-figure-this-out
+I have been learning English for over ten years.|S01T01001.01-I-have-been-learning-English-for-over-ten-years
+I have been learning English for less than a year.|S01T01001.02-I-have-been-learning-English-for-less-than-a-year
+I feel shy talking to foreigners.|S01T01580.01-I-feel-shy-talking-to-foreigners
+I feel confident talking to foreigners.|S01T01580.02-I-feel-confident-talking-to-foreigners
+I feel amazing talking to foreigners.|S01T01580.03-I-feel-amazing-talking-to-foreigners
+Why do you want to learn English|S01T01002.00-Why-do-you-want-to-learn-English
+How long have you been learning English|S01T01001.00-How-long-have-you-been-learning-English
+How do you feel when you talk to foreigners|S01T01580.00-How-do-you-feel-when-you-talk-to-foreigners
