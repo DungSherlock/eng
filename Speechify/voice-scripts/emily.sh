@@ -1,5 +1,4 @@
 #!/bin/bash
-# rootDir=
 token=$(cat $(dirname "$0")/../token.txt)
 voice=$(basename "$0" .sh)
 
