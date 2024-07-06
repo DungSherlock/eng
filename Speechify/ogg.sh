@@ -1,6 +1,6 @@
 #/bin/bash
 # Đặt đường dẫn thư mục vào biến
-script_dir=$(dirname "$(readlink -f "$0")")
+script_dir=$(dirname "$(readlink -f "$0")")/output
 
 # Lấy danh sách tên các tệp có định dạng .mp3 trong thư mục
 file_names=("$script_dir"/*.mp3)
@@ -27,6 +27,6 @@ printf '%s\n' "${unique_values[@]}"
 for name in "${unique_values[@]}"; do
     # mp3cat ${name}*.mp3 -o m${name}.mp3 && zip ${name}.zip ${name}* && rm ${name}*.mp3
     # ffmpeg -loglevel error -f concat -safe 0 -i <(for f in ${name}*.mp3; do echo "file '$PWD/$f'"; done) -c:a libvorbis ${name}.ogg && rm ${name}*.mp3
-
+    cd output
     ffmpeg -loglevel error -f concat -safe 0 -i <(for f in ${name}*.mp3; do echo "file '$PWD/$f'"; done) -c:a libvorbis ${name}.ogg && zip ${name}.zip ${name}*.mp3 && rm ${name}*.mp3
 done
