@@ -12,3 +12,5 @@ for script in voice-scripts/*.sh; do
   bash "$script" &
 done
 wait
+
+echo "output = "$(( $(awk 'END {print NR}' input.txt) * 28 ))" files"
