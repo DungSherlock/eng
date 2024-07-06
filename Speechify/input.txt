@@ -1,24 +1,11 @@
-I live in a small town.|S01T004024.01-I-live-in-a-small-town
-I live near a shopping mall.|S01T004024.02-I-live-near-a-shopping-mall
-I live in a hectic city.|S01T004024.03-I-live-in-a-hectic-city
-My house is a 30-minute drive from the city center.|S01T004025.01-My-house-is-a-30-minute-drive-from-the-city-center
-My house is a 15-minute walk from the city center.|S01T004025.02-My-house-is-a-15-minute-walk-from-the-city-center
-My house is a 15-minute drive from the city center.|S01T004025.03-My-house-is-a-15-minute-drive-from-the-city-center
-It's a noisy place to live.|S01T004026.01-It's-a-noisy-place-to-live
-It's a nice place to live.|S01T004026.02-It's-a-nice-place-to-live
-It's a quiet place to live.|S01T004026.03-It's-a-quiet-place-to-live
-I live in a house.|S01T004028.01-I-live-in-a-house
-I live in a dorm.|S01T004028.02-I-live-in-a-dorm
-I live in an apartment.|S01T004028.03-I-live-in-an-apartment
-I live with my family.|S01T004029.01-I-live-with-my-family
-I live with a friend.|S01T004029.02-I-live-with-a-friend
-I live by myself.|S01T004029.03-I-live-by-myself
-I prefer spending time at home.|S01T004030.01-I-prefer-spending-time-at-home
-I prefer spending time at my girlfriend's house.|S01T004030.02-I-prefer-spending-time-at-my-girlfriend's-house
-I prefer spending time outside.|S01T004030.03-I-prefer-spending-time-outside
-Where do you live|S01T004024.00-Where-do-you-live
-How far is it from your house to the city center|S01T004025.00-How-far-is-it-from-your-house-to-the-city-center
-Is it a quiet or noisy place to live|S01T004026.00-Is-it-a-quiet-or-noisy-place-to-live
-Do you live in a house or an apartment|S01T004028.00-Do-you-live-in-a-house-or-an-apartment
-Who do you live with|S01T004029.00-Who-do-you-live-with
-Do you prefer spending time at home or outside|S01T004030.00-Do-you-prefer-spending-time-at-home-or-outside
+Last year|S01T105310.01-Last-year
+What was your best flex from last year|S01T105310.02-What-was-your-best-flex-from-last-year
+Well|S01T105311.01-Well
+Then|S01T105311.02-Then
+I want to prioritize my health and well-being|S01T105312.01-I-want-to-prioritize-my-health-and-well-being
+I want to travel to many places|S01T105312.02-I-want-to-travel-to-many-places
+I want to focus on skill development|S01T105312.03-I-want-to-focus-on-skill-development
+So|S01T105312.04-So
+What was your best flex from last year, flex master|S01T105310.00-What-was-your-best-flex-from-last-year-flex-master
+Then, what was pressing you last year|S01T105311.00-Then-what-was-pressing-you-last-year
+So, what are you longing for this year|S01T105312.00-So-what-are-you-longing-for-this-year
